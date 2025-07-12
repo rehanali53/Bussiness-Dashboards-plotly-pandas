@@ -16,7 +16,7 @@ Each dashboard tells a different business story and uses different types of char
 ### Dashboard 1: E-commerce Performance
 **Business Question:** *"Show me how our online store is doing this year compared to last year and which regions are selling the most."*
 
-**🔗 [View Live Dashboard](https://rehanali53.github.io/Business-Dashboards-Portfolio/ecommerce-dashboard/ecommerce_dashboard.html)**
+**🔗 [View Live Dashboard](https://rehanali53.github.io/Bussiness-Dashboards-plotly-pandas/index)**
 
 **Key Features:**
 - Monthly sales trends (2024 vs 2025)
@@ -34,7 +34,7 @@ Each dashboard tells a different business story and uses different types of char
 ### Dashboard 2: Sales Customer Profiling  
 **Business Question:** *"Show me our sales performance and customer buying patterns for this year."*
 
-**🔗 [View Live Dashboard](https://rehanali53.github.io/Business-Dashboards-Portfolio/sales-customer-dashboard/sales_customer_profiling_dashboard.html)**
+**🔗 [View Live Dashboard](https://rehanali53.github.io/Bussiness-Dashboards-plotly-pandas/index)**
 
 **Key Features:**
 - Key business metrics display
