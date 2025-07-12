@@ -262,7 +262,7 @@ annotations = [
 fig.update_layout(annotations=annotations)
 
 # Export to HTML
-fig.write_html("ecommerce_dashboard.html")
+fig.write_html("ecommerce-dashboard/ecommerce_dashboard.html")
 
 print("E-commerce Dashboard created successfully!")
 print("\nDashboard Features:")

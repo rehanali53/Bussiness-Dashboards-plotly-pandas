@@ -216,7 +216,7 @@ fig.add_shape(
 )
 
 # Export to HTML
-fig.write_html("sales_customer_profiling_dashboard.html")
+fig.write_html("sales-customer-dashboard/sales_customer_profiling_dashboard.html")
 
 print("Sales Customer Profiling Dashboard created successfully!")
 print("\nDashboard Features:")
