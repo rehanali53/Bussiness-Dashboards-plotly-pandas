@@ -1,0 +1,755 @@
+invoice_id,invoice_date,month,customer_id,customer_name,customer_group,product_id,product_name,product_group,quantity,unit_price,invoice_amount
+INV1001,2023-01-04,1,C002,ClearWater Tech,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,2,6181.94,12363.88
+INV1002,2023-01-22,1,C048,Company 48,NEW,P009,Skincare Set,Personal Care and Wellness Products,1,7252.1,7252.1
+INV1003,2023-01-03,1,C014,Company 14,REGULAR,P004,Sports Drinks,Food and Beverages,4,4502.06,18008.23
+INV1004,2023-01-23,1,C042,Company 42,NEW,P009,Skincare Set,Personal Care and Wellness Products,5,3173.81,15869.07
+INV1005,2023-01-26,1,C001,PrimeCore Innovations,NEW,P003,Vitamin D3,Nutrition Supplements,3,7260.9,21782.69
+INV1006,2023-01-07,1,C049,Company 49,VIP,P006,Wellness Kit,Personal Care and Wellness Products,6,2367.22,14203.33
+INV1007,2023-01-28,1,C023,Company 23,VIP,P010,Multivitamins,Nutrition Supplements,8,2240.52,17924.12
+INV1008,2023-01-18,1,C008,VitalLife Corp,SENSITIVE,P007,Energy Bars,Food and Beverages,10,450.67,4506.73
+INV1009,2023-01-28,1,C024,Company 24,NEW,P010,Multivitamins,Nutrition Supplements,4,2046.71,8186.84
+INV1010,2023-01-25,1,C019,Company 19,VIP,P002,Protein Powder,Nutrition Supplements,7,8919.26,62434.8
+INV1011,2023-01-09,1,C030,Company 30,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,5,2328.63,11643.16
+INV1012,2023-01-23,1,C044,Company 44,VIP,P002,Protein Powder,Nutrition Supplements,4,8451.06,33804.25
+INV1013,2023-01-06,1,C030,Company 30,REGULAR,P007,Energy Bars,Food and Beverages,9,2271.82,20446.41
+INV1014,2023-01-08,1,C044,Company 44,VIP,P006,Wellness Kit,Personal Care and Wellness Products,4,14834.57,59338.27
+INV1015,2023-01-27,1,C003,Silverline Industries,NEW,P006,Wellness Kit,Personal Care and Wellness Products,10,1252.07,12520.67
+INV1016,2023-01-23,1,C021,Company 21,NEW,P004,Sports Drinks,Food and Beverages,8,2667.41,21339.26
+INV1017,2023-01-05,1,C017,Company 17,NEW,P003,Vitamin D3,Nutrition Supplements,5,2413.32,12066.58
+INV1018,2023-01-24,1,C038,Company 38,REGULAR,P007,Energy Bars,Food and Beverages,4,9053.75,36214.99
+INV1019,2023-01-05,1,C033,Company 33,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,2,3773.43,7546.87
+INV1020,2023-01-05,1,C041,Company 41,VIP,P003,Vitamin D3,Nutrition Supplements,2,23836.69,47673.38
+INV1021,2023-01-13,1,C025,Company 25,NEW,P010,Multivitamins,Nutrition Supplements,9,3537.05,31833.49
+INV1022,2023-01-28,1,C001,PrimeCore Innovations,NEW,P002,Protein Powder,Nutrition Supplements,5,4710.47,23552.36
+INV1023,2023-01-25,1,C042,Company 42,NEW,P006,Wellness Kit,Personal Care and Wellness Products,8,990.52,7924.19
+INV1024,2023-01-01,1,C047,Company 47,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,9,5239.54,47155.89
+INV1025,2023-01-04,1,C041,Company 41,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,4,13070.76,52283.02
+INV1026,2023-01-05,1,C024,Company 24,NEW,P003,Vitamin D3,Nutrition Supplements,9,2442.65,21983.83
+INV1027,2023-01-01,1,C039,Company 39,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,6,3125.97,18755.8
+INV1028,2023-01-27,1,C020,Company 20,VIP,P004,Sports Drinks,Food and Beverages,2,7666.86,15333.71
+INV1029,2023-01-03,1,C047,Company 47,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,9,5030.41,45273.68
+INV1030,2023-01-25,1,C009,GreenLeaf Enterprises,VIP,P003,Vitamin D3,Nutrition Supplements,3,17530.67,52592.0
+INV1031,2023-01-09,1,C034,Company 34,REGULAR,P010,Multivitamins,Nutrition Supplements,9,2024.23,18218.04
+INV1032,2023-01-25,1,C047,Company 47,REGULAR,P004,Sports Drinks,Food and Beverages,6,5018.15,30108.92
+INV1033,2023-01-15,1,C034,Company 34,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,6,1577.95,9467.68
+INV1034,2023-01-01,1,C038,Company 38,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,2,6323.62,12647.24
+INV1035,2023-01-23,1,C041,Company 41,VIP,P001,Organic Juice,Food and Beverages,6,4299.1,25794.63
+INV1036,2023-01-03,1,C033,Company 33,REGULAR,P004,Sports Drinks,Food and Beverages,9,1845.24,16607.13
+INV1037,2023-01-05,1,C047,Company 47,REGULAR,P010,Multivitamins,Nutrition Supplements,8,2897.2,23177.64
+INV1038,2023-01-26,1,C027,Company 27,REGULAR,P004,Sports Drinks,Food and Beverages,6,1872.88,11237.26
+INV1039,2023-01-14,1,C027,Company 27,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,2,13874.25,27748.5
+INV1040,2023-01-02,1,C026,Company 26,NEW,P006,Wellness Kit,Personal Care and Wellness Products,4,5344.63,21378.52
+INV1041,2023-01-07,1,C035,Company 35,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,8,1219.12,9752.95
+INV1042,2023-01-08,1,C005,NutriMax Solutions,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,2,21228.61,42457.23
+INV1043,2023-01-02,1,C042,Company 42,NEW,P009,Skincare Set,Personal Care and Wellness Products,4,8317.35,33269.39
+INV1044,2023-01-06,1,C027,Company 27,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,1,28816.7,28816.7
+INV1045,2023-01-06,1,C025,Company 25,NEW,P001,Organic Juice,Food and Beverages,8,3454.44,27635.52
+INV1046,2023-01-10,1,C028,Company 28,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,4,7483.94,29935.75
+INV1047,2023-01-10,1,C014,Company 14,REGULAR,P001,Organic Juice,Food and Beverages,6,4654.81,27928.86
+INV1048,2023-01-02,1,C004,AquaVita Industries,VIP,P010,Multivitamins,Nutrition Supplements,9,4548.37,40935.34
+INV1049,2023-01-06,1,C004,AquaVita Industries,VIP,P009,Skincare Set,Personal Care and Wellness Products,10,1180.55,11805.47
+INV1050,2023-01-03,1,C044,Company 44,VIP,P004,Sports Drinks,Food and Beverages,10,3685.44,36854.4
+INV1051,2023-01-08,1,C038,Company 38,REGULAR,P010,Multivitamins,Nutrition Supplements,10,638.66,6386.64
+INV1052,2023-01-19,1,C034,Company 34,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,6,5500.52,33003.14
+INV1053,2023-01-08,1,C017,Company 17,NEW,P007,Energy Bars,Food and Beverages,8,1160.92,9287.34
+INV1054,2023-01-11,1,C049,Company 49,VIP,P002,Protein Powder,Nutrition Supplements,10,1109.98,11099.79
+INV1055,2023-01-04,1,C005,NutriMax Solutions,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,6,2086.71,12520.23
+INV1056,2023-01-03,1,C016,Company 16,NEW,P006,Wellness Kit,Personal Care and Wellness Products,9,1372.91,12356.17
+INV1057,2023-01-23,1,C020,Company 20,VIP,P010,Multivitamins,Nutrition Supplements,9,7586.86,68281.7
+INV1058,2023-01-01,1,C043,Company 43,NEW,P009,Skincare Set,Personal Care and Wellness Products,3,4709.53,14128.6
+INV1059,2023-01-09,1,C008,VitalLife Corp,SENSITIVE,P002,Protein Powder,Nutrition Supplements,5,2722.28,13611.42
+INV1060,2023-01-20,1,C014,Company 14,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,5,3041.89,15209.47
+INV1061,2023-01-17,1,C032,Company 32,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,2,16898.55,33797.1
+INV1062,2023-01-21,1,C028,Company 28,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,3,2576.83,7730.5
+INV1063,2023-01-21,1,C017,Company 17,NEW,P003,Vitamin D3,Nutrition Supplements,7,3616.48,25315.35
+INV1064,2023-01-18,1,C001,PrimeCore Innovations,NEW,P002,Protein Powder,Nutrition Supplements,3,2847.75,8543.25
+INV1065,2023-01-18,1,C003,Silverline Industries,NEW,P006,Wellness Kit,Personal Care and Wellness Products,3,5699.58,17098.75
+INV1066,2023-02-10,2,C024,Company 24,NEW,P001,Organic Juice,Food and Beverages,4,6216.06,24864.22
+INV1067,2023-02-22,2,C007,HealthCore Systems,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,7,5976.29,41834.0
+INV1068,2023-02-20,2,C048,Company 48,NEW,P003,Vitamin D3,Nutrition Supplements,3,8615.55,25846.66
+INV1069,2023-02-26,2,C012,Company 12,SENSITIVE,P007,Energy Bars,Food and Beverages,6,813.24,4879.45
+INV1070,2023-02-26,2,C027,Company 27,REGULAR,P004,Sports Drinks,Food and Beverages,2,9510.58,19021.16
+INV1071,2023-02-13,2,C003,Silverline Industries,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,8,1595.07,12760.6
+INV1072,2023-02-12,2,C020,Company 20,VIP,P004,Sports Drinks,Food and Beverages,7,3262.6,22838.22
+INV1073,2023-02-11,2,C018,Company 18,VIP,P002,Protein Powder,Nutrition Supplements,9,5766.78,51901.04
+INV1074,2023-02-13,2,C044,Company 44,VIP,P009,Skincare Set,Personal Care and Wellness Products,5,4056.92,20284.62
+INV1075,2023-02-06,2,C038,Company 38,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,6,1466.53,8799.18
+INV1076,2023-02-24,2,C021,Company 21,NEW,P007,Energy Bars,Food and Beverages,7,3039.73,21278.1
+INV1077,2023-02-19,2,C013,Company 13,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,9,1314.3,11828.66
+INV1078,2023-02-26,2,C035,Company 35,REGULAR,P004,Sports Drinks,Food and Beverages,6,2482.53,14895.15
+INV1079,2023-02-20,2,C021,Company 21,NEW,P002,Protein Powder,Nutrition Supplements,5,4369.57,21847.87
+INV1080,2023-02-22,2,C027,Company 27,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,3,6207.36,18622.07
+INV1081,2023-02-07,2,C027,Company 27,REGULAR,P007,Energy Bars,Food and Beverages,10,3777.39,37773.9
+INV1082,2023-02-19,2,C020,Company 20,VIP,P007,Energy Bars,Food and Beverages,5,5611.05,28055.24
+INV1083,2023-02-07,2,C028,Company 28,REGULAR,P010,Multivitamins,Nutrition Supplements,8,3170.68,25365.46
+INV1084,2023-02-15,2,C044,Company 44,VIP,P004,Sports Drinks,Food and Beverages,3,13593.71,40781.12
+INV1085,2023-02-22,2,C006,FreshFarm Products,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,6,6358.4,38150.42
+INV1086,2023-02-03,2,C049,Company 49,VIP,P004,Sports Drinks,Food and Beverages,4,9407.87,37631.47
+INV1087,2023-02-05,2,C002,ClearWater Tech,REGULAR,P001,Organic Juice,Food and Beverages,2,7674.14,15348.28
+INV1088,2023-02-15,2,C027,Company 27,REGULAR,P010,Multivitamins,Nutrition Supplements,8,1919.28,15354.21
+INV1089,2023-02-13,2,C016,Company 16,NEW,P003,Vitamin D3,Nutrition Supplements,2,8590.25,17180.49
+INV1090,2023-02-25,2,C028,Company 28,REGULAR,P004,Sports Drinks,Food and Beverages,9,1844.32,16598.9
+INV1091,2023-02-15,2,C004,AquaVita Industries,VIP,P009,Skincare Set,Personal Care and Wellness Products,8,3296.46,26371.72
+INV1092,2023-02-05,2,C030,Company 30,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,8,5480.5,43843.98
+INV1093,2023-02-20,2,C047,Company 47,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,8,3379.47,27035.78
+INV1094,2023-02-06,2,C048,Company 48,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,5,3822.05,19110.24
+INV1095,2023-02-25,2,C050,Company 50,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,8,2548.83,20390.67
+INV1096,2023-02-03,2,C046,Company 46,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,9,2215.73,19941.6
+INV1097,2023-02-03,2,C009,GreenLeaf Enterprises,VIP,P003,Vitamin D3,Nutrition Supplements,4,5913.54,23654.15
+INV1098,2023-02-03,2,C027,Company 27,REGULAR,P007,Energy Bars,Food and Beverages,1,18219.05,18219.05
+INV1099,2023-02-07,2,C027,Company 27,REGULAR,P007,Energy Bars,Food and Beverages,1,40527.23,40527.23
+INV1100,2023-02-28,2,C049,Company 49,VIP,P010,Multivitamins,Nutrition Supplements,6,3641.64,21849.84
+INV1101,2023-02-10,2,C049,Company 49,VIP,P007,Energy Bars,Food and Beverages,7,9230.58,64614.03
+INV1102,2023-02-18,2,C048,Company 48,NEW,P009,Skincare Set,Personal Care and Wellness Products,8,3902.32,31218.53
+INV1103,2023-02-08,2,C018,Company 18,VIP,P007,Energy Bars,Food and Beverages,7,4625.29,32377.0
+INV1104,2023-02-24,2,C011,Company 11,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,9,5549.75,49947.72
+INV1105,2023-02-01,2,C026,Company 26,NEW,P010,Multivitamins,Nutrition Supplements,7,2220.97,15546.8
+INV1106,2023-02-05,2,C030,Company 30,REGULAR,P003,Vitamin D3,Nutrition Supplements,4,2038.7,8154.79
+INV1107,2023-02-15,2,C021,Company 21,NEW,P006,Wellness Kit,Personal Care and Wellness Products,7,3397.13,23779.94
+INV1108,2023-02-09,2,C006,FreshFarm Products,VIP,P008,Yoga Mat,Fitness and Exercise Equipment,6,1864.23,11185.36
+INV1109,2023-02-08,2,C042,Company 42,NEW,P002,Protein Powder,Nutrition Supplements,1,27618.7,27618.7
+INV1110,2023-02-08,2,C013,Company 13,VIP,P001,Organic Juice,Food and Beverages,8,4462.28,35698.22
+INV1111,2023-02-22,2,C008,VitalLife Corp,SENSITIVE,P010,Multivitamins,Nutrition Supplements,5,4203.76,21018.79
+INV1112,2023-02-25,2,C024,Company 24,NEW,P003,Vitamin D3,Nutrition Supplements,2,12913.09,25826.19
+INV1113,2023-02-25,2,C011,Company 11,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,5,1572.14,7860.7
+INV1114,2023-02-19,2,C044,Company 44,VIP,P007,Energy Bars,Food and Beverages,2,16519.98,33039.96
+INV1115,2023-02-19,2,C045,Company 45,SENSITIVE,P004,Sports Drinks,Food and Beverages,10,668.89,6688.93
+INV1116,2023-02-26,2,C008,VitalLife Corp,SENSITIVE,P010,Multivitamins,Nutrition Supplements,7,2363.95,16547.63
+INV1117,2023-02-22,2,C024,Company 24,NEW,P002,Protein Powder,Nutrition Supplements,7,2447.2,17130.41
+INV1118,2023-02-27,2,C032,Company 32,NEW,P002,Protein Powder,Nutrition Supplements,8,1942.33,15538.65
+INV1119,2023-02-23,2,C010,PureFit Industries,NEW,P007,Energy Bars,Food and Beverages,5,1995.17,9975.84
+INV1120,2023-02-20,2,C035,Company 35,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,10,2760.2,27602.03
+INV1121,2023-02-09,2,C021,Company 21,NEW,P004,Sports Drinks,Food and Beverages,8,2716.4,21731.2
+INV1122,2023-02-08,2,C049,Company 49,VIP,P008,Yoga Mat,Fitness and Exercise Equipment,6,6954.91,41729.48
+INV1123,2023-02-01,2,C032,Company 32,NEW,P006,Wellness Kit,Personal Care and Wellness Products,5,1729.85,8649.24
+INV1124,2023-02-11,2,C018,Company 18,VIP,P010,Multivitamins,Nutrition Supplements,1,40018.61,40018.61
+INV1125,2023-02-17,2,C013,Company 13,VIP,P002,Protein Powder,Nutrition Supplements,9,2337.26,21035.34
+INV1126,2023-03-23,3,C031,Company 31,VIP,P008,Yoga Mat,Fitness and Exercise Equipment,5,4917.19,24585.96
+INV1127,2023-03-08,3,C026,Company 26,NEW,P004,Sports Drinks,Food and Beverages,8,1725.49,13803.96
+INV1128,2023-03-18,3,C034,Company 34,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,6,4161.55,24969.3
+INV1129,2023-03-12,3,C045,Company 45,SENSITIVE,P008,Yoga Mat,Fitness and Exercise Equipment,2,3683.17,7366.33
+INV1130,2023-03-24,3,C013,Company 13,VIP,P006,Wellness Kit,Personal Care and Wellness Products,3,5421.42,16264.25
+INV1131,2023-03-07,3,C014,Company 14,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,9,1947.92,17531.25
+INV1132,2023-03-20,3,C019,Company 19,VIP,P002,Protein Powder,Nutrition Supplements,6,7728.56,46371.38
+INV1133,2023-03-06,3,C020,Company 20,VIP,P001,Organic Juice,Food and Beverages,1,36924.18,36924.18
+INV1134,2023-03-02,3,C036,Company 36,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,8,4560.79,36486.29
+INV1135,2023-03-04,3,C001,PrimeCore Innovations,NEW,P010,Multivitamins,Nutrition Supplements,6,2097.51,12585.04
+INV1136,2023-03-06,3,C004,AquaVita Industries,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,2,28208.93,56417.87
+INV1137,2023-03-13,3,C032,Company 32,NEW,P002,Protein Powder,Nutrition Supplements,3,7402.59,22207.76
+INV1138,2023-03-05,3,C037,Company 37,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,9,732.04,6588.36
+INV1139,2023-03-25,3,C027,Company 27,REGULAR,P010,Multivitamins,Nutrition Supplements,9,3305.55,29749.96
+INV1140,2023-03-13,3,C029,Company 29,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,7,2612.56,18287.92
+INV1141,2023-03-10,3,C037,Company 37,NEW,P010,Multivitamins,Nutrition Supplements,2,4163.86,8327.72
+INV1142,2023-03-25,3,C014,Company 14,REGULAR,P004,Sports Drinks,Food and Beverages,4,3092.66,12370.62
+INV1143,2023-03-06,3,C036,Company 36,VIP,P002,Protein Powder,Nutrition Supplements,10,1701.12,17011.22
+INV1144,2023-03-16,3,C019,Company 19,VIP,P001,Organic Juice,Food and Beverages,8,2975.78,23806.22
+INV1145,2023-03-03,3,C044,Company 44,VIP,P004,Sports Drinks,Food and Beverages,10,6428.29,64282.88
+INV1146,2023-03-22,3,C013,Company 13,VIP,P007,Energy Bars,Food and Beverages,3,4524.41,13573.23
+INV1147,2023-03-09,3,C010,PureFit Industries,NEW,P002,Protein Powder,Nutrition Supplements,10,776.52,7765.22
+INV1148,2023-03-24,3,C037,Company 37,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,5,3305.54,16527.69
+INV1149,2023-03-23,3,C026,Company 26,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,2,9166.53,18333.07
+INV1150,2023-03-20,3,C003,Silverline Industries,NEW,P007,Energy Bars,Food and Beverages,1,25743.06,25743.06
+INV1151,2023-03-03,3,C015,Company 15,NEW,P010,Multivitamins,Nutrition Supplements,5,3189.31,15946.57
+INV1152,2023-03-19,3,C003,Silverline Industries,NEW,P003,Vitamin D3,Nutrition Supplements,5,3774.1,18870.49
+INV1153,2023-03-06,3,C038,Company 38,REGULAR,P007,Energy Bars,Food and Beverages,2,14539.66,29079.32
+INV1154,2023-03-16,3,C023,Company 23,VIP,P007,Energy Bars,Food and Beverages,3,9644.59,28933.76
+INV1155,2023-03-11,3,C027,Company 27,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,9,2381.63,21434.65
+INV1156,2023-03-02,3,C030,Company 30,REGULAR,P002,Protein Powder,Nutrition Supplements,7,2312.79,16189.53
+INV1157,2023-03-28,3,C033,Company 33,REGULAR,P001,Organic Juice,Food and Beverages,7,4392.68,30748.73
+INV1158,2023-03-02,3,C013,Company 13,VIP,P009,Skincare Set,Personal Care and Wellness Products,8,3961.32,31690.58
+INV1159,2023-03-25,3,C004,AquaVita Industries,VIP,P004,Sports Drinks,Food and Beverages,5,3808.87,19044.37
+INV1160,2023-03-15,3,C045,Company 45,SENSITIVE,P008,Yoga Mat,Fitness and Exercise Equipment,10,792.78,7927.76
+INV1161,2023-03-26,3,C016,Company 16,NEW,P003,Vitamin D3,Nutrition Supplements,7,1471.76,10302.31
+INV1162,2023-03-03,3,C015,Company 15,NEW,P002,Protein Powder,Nutrition Supplements,3,4733.39,14200.18
+INV1163,2023-03-16,3,C046,Company 46,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,8,3928.54,31428.28
+INV1164,2023-03-16,3,C016,Company 16,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,10,1862.75,18627.49
+INV1165,2023-03-17,3,C048,Company 48,NEW,P003,Vitamin D3,Nutrition Supplements,7,3564.96,24954.72
+INV1166,2023-03-11,3,C033,Company 33,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,5,6257.35,31286.76
+INV1167,2023-03-27,3,C038,Company 38,REGULAR,P010,Multivitamins,Nutrition Supplements,3,13904.39,41713.18
+INV1168,2023-03-15,3,C035,Company 35,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,9,2182.82,19645.37
+INV1169,2023-03-13,3,C030,Company 30,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,4,11930.2,47720.81
+INV1170,2023-03-19,3,C025,Company 25,NEW,P004,Sports Drinks,Food and Beverages,6,4423.76,26542.56
+INV1171,2023-03-24,3,C031,Company 31,VIP,P007,Energy Bars,Food and Beverages,3,10567.43,31702.3
+INV1172,2023-03-16,3,C003,Silverline Industries,NEW,P003,Vitamin D3,Nutrition Supplements,2,9613.4,19226.8
+INV1173,2023-03-28,3,C029,Company 29,REGULAR,P002,Protein Powder,Nutrition Supplements,3,8260.98,24782.93
+INV1174,2023-03-14,3,C042,Company 42,NEW,P003,Vitamin D3,Nutrition Supplements,5,1636.28,8181.38
+INV1175,2023-03-11,3,C040,Company 40,NEW,P007,Energy Bars,Food and Beverages,9,2893.89,26045.0
+INV1176,2023-03-13,3,C021,Company 21,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,2,10964.44,21928.88
+INV1177,2023-03-08,3,C041,Company 41,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,7,9608.34,67258.41
+INV1178,2023-03-04,3,C049,Company 49,VIP,P002,Protein Powder,Nutrition Supplements,1,35305.79,35305.79
+INV1179,2023-03-02,3,C021,Company 21,NEW,P001,Organic Juice,Food and Beverages,3,4059.68,12179.04
+INV1180,2023-03-08,3,C034,Company 34,REGULAR,P007,Energy Bars,Food and Beverages,3,10429.49,31288.46
+INV1181,2023-03-06,3,C006,FreshFarm Products,VIP,P010,Multivitamins,Nutrition Supplements,4,14186.69,56746.75
+INV1182,2023-03-16,3,C038,Company 38,REGULAR,P003,Vitamin D3,Nutrition Supplements,8,2039.83,16318.61
+INV1183,2023-03-09,3,C043,Company 43,NEW,P001,Organic Juice,Food and Beverages,5,5673.81,28369.06
+INV1184,2023-03-22,3,C035,Company 35,REGULAR,P003,Vitamin D3,Nutrition Supplements,10,1202.38,12023.83
+INV1185,2023-03-10,3,C041,Company 41,VIP,P007,Energy Bars,Food and Beverages,5,8710.99,43554.93
+INV1186,2023-03-07,3,C025,Company 25,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,6,1265.82,7594.9
+INV1187,2023-04-10,4,C045,Company 45,SENSITIVE,P005,Fitness Equipment,Fitness and Exercise Equipment,7,725.28,5076.97
+INV1188,2023-04-09,4,C001,PrimeCore Innovations,NEW,P010,Multivitamins,Nutrition Supplements,1,31663.28,31663.28
+INV1189,2023-04-20,4,C048,Company 48,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,4,8078.53,32314.11
+INV1190,2023-04-20,4,C023,Company 23,VIP,P004,Sports Drinks,Food and Beverages,3,14786.46,44359.39
+INV1191,2023-04-21,4,C007,HealthCore Systems,REGULAR,P001,Organic Juice,Food and Beverages,10,1721.03,17210.31
+INV1192,2023-04-12,4,C047,Company 47,REGULAR,P003,Vitamin D3,Nutrition Supplements,7,1280.82,8965.76
+INV1193,2023-04-06,4,C013,Company 13,VIP,P003,Vitamin D3,Nutrition Supplements,6,9768.37,58610.22
+INV1194,2023-04-17,4,C033,Company 33,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,8,3882.23,31057.83
+INV1195,2023-04-26,4,C019,Company 19,VIP,P006,Wellness Kit,Personal Care and Wellness Products,2,24708.28,49416.56
+INV1196,2023-04-05,4,C049,Company 49,VIP,P004,Sports Drinks,Food and Beverages,7,8421.37,58949.56
+INV1197,2023-04-28,4,C036,Company 36,VIP,P006,Wellness Kit,Personal Care and Wellness Products,5,2750.0,13750.01
+INV1198,2023-04-18,4,C008,VitalLife Corp,SENSITIVE,P008,Yoga Mat,Fitness and Exercise Equipment,5,2486.16,12430.79
+INV1199,2023-04-19,4,C025,Company 25,NEW,P006,Wellness Kit,Personal Care and Wellness Products,1,7068.15,7068.15
+INV1200,2023-04-20,4,C036,Company 36,VIP,P006,Wellness Kit,Personal Care and Wellness Products,2,23997.06,47994.12
+INV1201,2023-04-21,4,C030,Company 30,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,1,23212.7,23212.7
+INV1202,2023-04-02,4,C020,Company 20,VIP,P008,Yoga Mat,Fitness and Exercise Equipment,9,1523.35,13710.15
+INV1203,2023-04-05,4,C025,Company 25,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,9,2021.84,18196.57
+INV1204,2023-04-14,4,C038,Company 38,REGULAR,P003,Vitamin D3,Nutrition Supplements,8,5169.07,41352.57
+INV1205,2023-04-20,4,C027,Company 27,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,8,942.81,7542.47
+INV1206,2023-04-15,4,C016,Company 16,NEW,P006,Wellness Kit,Personal Care and Wellness Products,9,950.32,8552.86
+INV1207,2023-04-21,4,C023,Company 23,VIP,P001,Organic Juice,Food and Beverages,2,12634.27,25268.54
+INV1208,2023-04-28,4,C030,Company 30,REGULAR,P002,Protein Powder,Nutrition Supplements,10,3264.21,32642.07
+INV1209,2023-04-01,4,C004,AquaVita Industries,VIP,P006,Wellness Kit,Personal Care and Wellness Products,10,1803.02,18030.23
+INV1210,2023-04-07,4,C005,NutriMax Solutions,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,4,2984.36,11937.46
+INV1211,2023-04-11,4,C050,Company 50,REGULAR,P003,Vitamin D3,Nutrition Supplements,5,7300.07,36500.36
+INV1212,2023-04-28,4,C010,PureFit Industries,NEW,P003,Vitamin D3,Nutrition Supplements,2,11096.36,22192.71
+INV1213,2023-04-22,4,C002,ClearWater Tech,REGULAR,P003,Vitamin D3,Nutrition Supplements,4,2191.56,8766.24
+INV1214,2023-04-19,4,C021,Company 21,NEW,P001,Organic Juice,Food and Beverages,7,1104.29,7730.05
+INV1215,2023-04-17,4,C008,VitalLife Corp,SENSITIVE,P002,Protein Powder,Nutrition Supplements,9,1669.97,15029.71
+INV1216,2023-04-19,4,C007,HealthCore Systems,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,1,30904.37,30904.37
+INV1217,2023-04-24,4,C043,Company 43,NEW,P009,Skincare Set,Personal Care and Wellness Products,1,14066.6,14066.6
+INV1218,2023-04-02,4,C031,Company 31,VIP,P007,Energy Bars,Food and Beverages,8,3146.95,25175.6
+INV1219,2023-04-03,4,C006,FreshFarm Products,VIP,P006,Wellness Kit,Personal Care and Wellness Products,5,6327.68,31638.42
+INV1220,2023-04-20,4,C041,Company 41,VIP,P010,Multivitamins,Nutrition Supplements,10,3414.72,34147.23
+INV1221,2023-04-17,4,C019,Company 19,VIP,P008,Yoga Mat,Fitness and Exercise Equipment,2,17023.18,34046.36
+INV1222,2023-04-28,4,C042,Company 42,NEW,P009,Skincare Set,Personal Care and Wellness Products,8,2611.48,20891.82
+INV1223,2023-04-08,4,C027,Company 27,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,2,16939.37,33878.74
+INV1224,2023-04-11,4,C028,Company 28,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,3,9367.97,28103.91
+INV1225,2023-04-22,4,C031,Company 31,VIP,P002,Protein Powder,Nutrition Supplements,7,1648.92,11542.43
+INV1226,2023-04-04,4,C048,Company 48,NEW,P006,Wellness Kit,Personal Care and Wellness Products,10,2727.19,27271.87
+INV1227,2023-04-18,4,C036,Company 36,VIP,P006,Wellness Kit,Personal Care and Wellness Products,7,5937.25,41560.72
+INV1228,2023-04-28,4,C047,Company 47,REGULAR,P001,Organic Juice,Food and Beverages,6,7206.72,43240.33
+INV1229,2023-04-04,4,C037,Company 37,NEW,P009,Skincare Set,Personal Care and Wellness Products,4,2910.76,11643.03
+INV1230,2023-04-28,4,C007,HealthCore Systems,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,5,6763.82,33819.11
+INV1231,2023-04-19,4,C015,Company 15,NEW,P007,Energy Bars,Food and Beverages,10,3363.5,33635.01
+INV1232,2023-04-20,4,C044,Company 44,VIP,P009,Skincare Set,Personal Care and Wellness Products,5,2747.95,13739.74
+INV1233,2023-04-01,4,C012,Company 12,SENSITIVE,P005,Fitness Equipment,Fitness and Exercise Equipment,6,2461.71,14770.24
+INV1234,2023-04-12,4,C001,PrimeCore Innovations,NEW,P003,Vitamin D3,Nutrition Supplements,7,4138.69,28970.83
+INV1235,2023-04-03,4,C010,PureFit Industries,NEW,P001,Organic Juice,Food and Beverages,7,1109.97,7769.81
+INV1236,2023-04-14,4,C030,Company 30,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,6,1860.48,11162.87
+INV1237,2023-04-25,4,C037,Company 37,NEW,P010,Multivitamins,Nutrition Supplements,3,1962.18,5886.53
+INV1238,2023-04-25,4,C040,Company 40,NEW,P001,Organic Juice,Food and Beverages,7,2921.71,20451.99
+INV1239,2023-04-16,4,C039,Company 39,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,9,2000.29,18002.57
+INV1240,2023-04-04,4,C023,Company 23,VIP,P007,Energy Bars,Food and Beverages,10,1692.96,16929.64
+INV1241,2023-04-16,4,C034,Company 34,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,10,807.55,8075.52
+INV1242,2023-04-02,4,C001,PrimeCore Innovations,NEW,P004,Sports Drinks,Food and Beverages,3,3784.12,11352.35
+INV1243,2023-04-25,4,C017,Company 17,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,7,1516.21,10613.48
+INV1244,2023-04-06,4,C009,GreenLeaf Enterprises,VIP,P007,Energy Bars,Food and Beverages,9,3520.69,31686.21
+INV1245,2023-04-27,4,C043,Company 43,NEW,P006,Wellness Kit,Personal Care and Wellness Products,1,8372.32,8372.32
+INV1246,2023-04-14,4,C002,ClearWater Tech,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,10,4736.04,47360.37
+INV1247,2023-04-14,4,C037,Company 37,NEW,P007,Energy Bars,Food and Beverages,2,11469.32,22938.63
+INV1248,2023-04-13,4,C002,ClearWater Tech,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,8,2043.08,16344.68
+INV1249,2023-04-27,4,C045,Company 45,SENSITIVE,P006,Wellness Kit,Personal Care and Wellness Products,4,1660.78,6643.14
+INV1250,2023-04-14,4,C038,Company 38,REGULAR,P007,Energy Bars,Food and Beverages,5,4765.89,23829.47
+INV1251,2023-05-11,5,C015,Company 15,NEW,P006,Wellness Kit,Personal Care and Wellness Products,2,10258.58,20517.16
+INV1252,2023-05-17,5,C033,Company 33,REGULAR,P004,Sports Drinks,Food and Beverages,3,11791.9,35375.71
+INV1253,2023-05-08,5,C007,HealthCore Systems,REGULAR,P003,Vitamin D3,Nutrition Supplements,3,4327.14,12981.41
+INV1254,2023-05-25,5,C049,Company 49,VIP,P002,Protein Powder,Nutrition Supplements,8,2678.74,21429.9
+INV1255,2023-05-15,5,C049,Company 49,VIP,P010,Multivitamins,Nutrition Supplements,10,4676.77,46767.74
+INV1256,2023-05-21,5,C041,Company 41,VIP,P010,Multivitamins,Nutrition Supplements,6,5386.81,32320.84
+INV1257,2023-05-05,5,C029,Company 29,REGULAR,P002,Protein Powder,Nutrition Supplements,5,5033.99,25169.96
+INV1258,2023-05-19,5,C004,AquaVita Industries,VIP,P006,Wellness Kit,Personal Care and Wellness Products,8,4001.78,32014.21
+INV1259,2023-05-02,5,C004,AquaVita Industries,VIP,P006,Wellness Kit,Personal Care and Wellness Products,2,20333.85,40667.7
+INV1260,2023-05-20,5,C039,Company 39,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,1,21395.91,21395.91
+INV1261,2023-05-15,5,C037,Company 37,NEW,P004,Sports Drinks,Food and Beverages,3,4510.4,13531.2
+INV1262,2023-05-02,5,C029,Company 29,REGULAR,P002,Protein Powder,Nutrition Supplements,2,21102.69,42205.38
+INV1263,2023-05-17,5,C042,Company 42,NEW,P003,Vitamin D3,Nutrition Supplements,8,862.26,6898.12
+INV1264,2023-05-17,5,C034,Company 34,REGULAR,P010,Multivitamins,Nutrition Supplements,5,2328.77,11643.84
+INV1265,2023-05-13,5,C027,Company 27,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,6,3815.49,22892.92
+INV1266,2023-05-03,5,C022,Company 22,SENSITIVE,P002,Protein Powder,Nutrition Supplements,5,2627.41,13137.06
+INV1267,2023-05-24,5,C043,Company 43,NEW,P010,Multivitamins,Nutrition Supplements,10,2593.8,25937.98
+INV1268,2023-05-22,5,C010,PureFit Industries,NEW,P006,Wellness Kit,Personal Care and Wellness Products,7,2055.55,14388.88
+INV1269,2023-05-05,5,C039,Company 39,REGULAR,P002,Protein Powder,Nutrition Supplements,6,2763.09,16578.53
+INV1270,2023-05-27,5,C009,GreenLeaf Enterprises,VIP,P009,Skincare Set,Personal Care and Wellness Products,9,1769.24,15923.17
+INV1271,2023-05-12,5,C002,ClearWater Tech,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,6,3733.67,22402.01
+INV1272,2023-05-25,5,C032,Company 32,NEW,P004,Sports Drinks,Food and Beverages,2,4632.17,9264.33
+INV1273,2023-05-10,5,C007,HealthCore Systems,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,9,4498.64,40487.8
+INV1274,2023-05-02,5,C043,Company 43,NEW,P006,Wellness Kit,Personal Care and Wellness Products,10,2984.34,29843.41
+INV1275,2023-05-13,5,C010,PureFit Industries,NEW,P003,Vitamin D3,Nutrition Supplements,10,1091.53,10915.26
+INV1276,2023-05-26,5,C011,Company 11,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,4,1966.96,7867.85
+INV1277,2023-05-15,5,C040,Company 40,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,4,7094.72,28378.88
+INV1278,2023-05-18,5,C016,Company 16,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,4,8685.04,34740.17
+INV1279,2023-05-12,5,C044,Company 44,VIP,P010,Multivitamins,Nutrition Supplements,5,11617.46,58087.3
+INV1280,2023-05-25,5,C025,Company 25,NEW,P009,Skincare Set,Personal Care and Wellness Products,4,5833.93,23335.71
+INV1281,2023-05-26,5,C039,Company 39,REGULAR,P003,Vitamin D3,Nutrition Supplements,8,3493.1,27944.83
+INV1282,2023-05-28,5,C024,Company 24,NEW,P009,Skincare Set,Personal Care and Wellness Products,9,3641.4,32772.59
+INV1283,2023-05-28,5,C008,VitalLife Corp,SENSITIVE,P005,Fitness Equipment,Fitness and Exercise Equipment,8,514.66,4117.3
+INV1284,2023-05-17,5,C010,PureFit Industries,NEW,P007,Energy Bars,Food and Beverages,8,1144.29,9154.35
+INV1285,2023-05-12,5,C002,ClearWater Tech,REGULAR,P007,Energy Bars,Food and Beverages,4,2218.54,8874.16
+INV1286,2023-05-13,5,C006,FreshFarm Products,VIP,P006,Wellness Kit,Personal Care and Wellness Products,2,9651.28,19302.56
+INV1287,2023-05-27,5,C046,Company 46,VIP,P006,Wellness Kit,Personal Care and Wellness Products,5,8117.42,40587.11
+INV1288,2023-05-27,5,C031,Company 31,VIP,P003,Vitamin D3,Nutrition Supplements,10,4720.16,47201.6
+INV1289,2023-05-01,5,C006,FreshFarm Products,VIP,P001,Organic Juice,Food and Beverages,9,2957.13,26614.14
+INV1290,2023-05-24,5,C039,Company 39,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,4,6314.11,25256.43
+INV1291,2023-05-10,5,C008,VitalLife Corp,SENSITIVE,P001,Organic Juice,Food and Beverages,10,898.23,8982.26
+INV1292,2023-05-15,5,C005,NutriMax Solutions,REGULAR,P002,Protein Powder,Nutrition Supplements,9,4031.17,36280.53
+INV1293,2023-05-01,5,C041,Company 41,VIP,P009,Skincare Set,Personal Care and Wellness Products,5,8597.39,42986.93
+INV1294,2023-05-14,5,C001,PrimeCore Innovations,NEW,P010,Multivitamins,Nutrition Supplements,3,4999.91,14999.72
+INV1295,2023-05-22,5,C043,Company 43,NEW,P002,Protein Powder,Nutrition Supplements,9,1970.09,17730.83
+INV1296,2023-05-18,5,C033,Company 33,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,8,3092.88,24743.03
+INV1297,2023-05-02,5,C041,Company 41,VIP,P007,Energy Bars,Food and Beverages,1,51778.25,51778.25
+INV1298,2023-05-12,5,C005,NutriMax Solutions,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,2,8412.73,16825.46
+INV1299,2023-05-25,5,C038,Company 38,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,6,1780.74,10684.44
+INV1300,2023-05-27,5,C042,Company 42,NEW,P003,Vitamin D3,Nutrition Supplements,8,3678.28,29426.24
+INV1301,2023-05-21,5,C012,Company 12,SENSITIVE,P003,Vitamin D3,Nutrition Supplements,8,730.18,5841.46
+INV1302,2023-05-02,5,C019,Company 19,VIP,P004,Sports Drinks,Food and Beverages,1,10358.54,10358.54
+INV1303,2023-05-11,5,C020,Company 20,VIP,P009,Skincare Set,Personal Care and Wellness Products,8,4328.54,34628.29
+INV1304,2023-05-09,5,C003,Silverline Industries,NEW,P004,Sports Drinks,Food and Beverages,1,14960.9,14960.9
+INV1305,2023-05-28,5,C042,Company 42,NEW,P006,Wellness Kit,Personal Care and Wellness Products,7,2027.52,14192.61
+INV1306,2023-05-13,5,C048,Company 48,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,3,9061.07,27183.2
+INV1307,2023-05-16,5,C045,Company 45,SENSITIVE,P008,Yoga Mat,Fitness and Exercise Equipment,5,2549.22,12746.09
+INV1308,2023-05-26,5,C006,FreshFarm Products,VIP,P007,Energy Bars,Food and Beverages,3,4886.93,14660.78
+INV1309,2023-05-18,5,C019,Company 19,VIP,P006,Wellness Kit,Personal Care and Wellness Products,5,2765.62,13828.12
+INV1310,2023-05-10,5,C029,Company 29,REGULAR,P010,Multivitamins,Nutrition Supplements,8,3250.01,26000.05
+INV1311,2023-05-12,5,C029,Company 29,REGULAR,P001,Organic Juice,Food and Beverages,10,4006.82,40068.17
+INV1312,2023-05-14,5,C018,Company 18,VIP,P001,Organic Juice,Food and Beverages,6,2449.6,14697.6
+INV1313,2023-05-17,5,C048,Company 48,NEW,P003,Vitamin D3,Nutrition Supplements,10,2511.32,25113.22
+INV1314,2023-05-22,5,C029,Company 29,REGULAR,P001,Organic Juice,Food and Beverages,6,1615.92,9695.53
+INV1315,2023-05-12,5,C025,Company 25,NEW,P010,Multivitamins,Nutrition Supplements,8,636.68,5093.42
+INV1316,2023-06-12,6,C029,Company 29,REGULAR,P002,Protein Powder,Nutrition Supplements,7,3934.75,27543.26
+INV1317,2023-06-11,6,C042,Company 42,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,3,3209.94,9629.83
+INV1318,2023-06-16,6,C034,Company 34,REGULAR,P007,Energy Bars,Food and Beverages,5,6092.24,30461.2
+INV1319,2023-06-23,6,C029,Company 29,REGULAR,P004,Sports Drinks,Food and Beverages,8,4592.78,36742.21
+INV1320,2023-06-07,6,C008,VitalLife Corp,SENSITIVE,P003,Vitamin D3,Nutrition Supplements,8,2388.67,19109.36
+INV1321,2023-06-03,6,C044,Company 44,VIP,P006,Wellness Kit,Personal Care and Wellness Products,9,5326.46,47938.18
+INV1322,2023-06-18,6,C019,Company 19,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,3,19378.43,58135.3
+INV1323,2023-06-26,6,C024,Company 24,NEW,P009,Skincare Set,Personal Care and Wellness Products,3,4569.67,13709.01
+INV1324,2023-06-08,6,C032,Company 32,NEW,P001,Organic Juice,Food and Beverages,8,1903.79,15230.29
+INV1325,2023-06-26,6,C036,Company 36,VIP,P003,Vitamin D3,Nutrition Supplements,5,6439.63,32198.13
+INV1326,2023-06-13,6,C046,Company 46,VIP,P008,Yoga Mat,Fitness and Exercise Equipment,10,4116.81,41168.07
+INV1327,2023-06-03,6,C009,GreenLeaf Enterprises,VIP,P006,Wellness Kit,Personal Care and Wellness Products,9,4562.61,41063.47
+INV1328,2023-06-12,6,C009,GreenLeaf Enterprises,VIP,P009,Skincare Set,Personal Care and Wellness Products,3,11770.85,35312.56
+INV1329,2023-06-14,6,C033,Company 33,REGULAR,P001,Organic Juice,Food and Beverages,5,7294.42,36472.09
+INV1330,2023-06-06,6,C011,Company 11,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,9,3720.6,33485.44
+INV1331,2023-06-10,6,C006,FreshFarm Products,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,5,4867.28,24336.42
+INV1332,2023-06-05,6,C041,Company 41,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,3,10814.44,32443.33
+INV1333,2023-06-19,6,C038,Company 38,REGULAR,P003,Vitamin D3,Nutrition Supplements,10,1391.62,13916.16
+INV1334,2023-06-11,6,C037,Company 37,NEW,P001,Organic Juice,Food and Beverages,1,20868.34,20868.34
+INV1335,2023-06-21,6,C050,Company 50,REGULAR,P010,Multivitamins,Nutrition Supplements,10,1357.55,13575.46
+INV1336,2023-06-14,6,C040,Company 40,NEW,P001,Organic Juice,Food and Beverages,5,3886.61,19433.07
+INV1337,2023-06-21,6,C020,Company 20,VIP,P008,Yoga Mat,Fitness and Exercise Equipment,7,3666.03,25662.22
+INV1338,2023-06-10,6,C030,Company 30,REGULAR,P002,Protein Powder,Nutrition Supplements,7,3574.97,25024.79
+INV1339,2023-06-16,6,C030,Company 30,REGULAR,P004,Sports Drinks,Food and Beverages,6,2509.5,15056.99
+INV1340,2023-06-24,6,C023,Company 23,VIP,P007,Energy Bars,Food and Beverages,9,1718.64,15467.78
+INV1341,2023-06-04,6,C021,Company 21,NEW,P004,Sports Drinks,Food and Beverages,4,3889.43,15557.73
+INV1342,2023-06-05,6,C007,HealthCore Systems,REGULAR,P001,Organic Juice,Food and Beverages,10,1602.16,16021.6
+INV1343,2023-06-14,6,C016,Company 16,NEW,P003,Vitamin D3,Nutrition Supplements,6,5349.79,32098.76
+INV1344,2023-06-07,6,C049,Company 49,VIP,P003,Vitamin D3,Nutrition Supplements,8,4396.29,35170.32
+INV1345,2023-06-10,6,C032,Company 32,NEW,P001,Organic Juice,Food and Beverages,8,903.34,7226.73
+INV1346,2023-06-08,6,C014,Company 14,REGULAR,P010,Multivitamins,Nutrition Supplements,8,1797.66,14381.25
+INV1347,2023-06-20,6,C042,Company 42,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,2,4882.31,9764.62
+INV1348,2023-06-14,6,C009,GreenLeaf Enterprises,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,6,8748.94,52493.64
+INV1349,2023-06-02,6,C026,Company 26,NEW,P001,Organic Juice,Food and Beverages,9,1919.99,17279.88
+INV1350,2023-06-10,6,C005,NutriMax Solutions,REGULAR,P007,Energy Bars,Food and Beverages,5,5674.62,28373.1
+INV1351,2023-06-27,6,C040,Company 40,NEW,P010,Multivitamins,Nutrition Supplements,7,1466.01,10262.06
+INV1352,2023-06-12,6,C022,Company 22,SENSITIVE,P009,Skincare Set,Personal Care and Wellness Products,4,6246.3,24985.19
+INV1353,2023-06-20,6,C033,Company 33,REGULAR,P007,Energy Bars,Food and Beverages,3,6045.42,18136.27
+INV1354,2023-06-23,6,C022,Company 22,SENSITIVE,P008,Yoga Mat,Fitness and Exercise Equipment,9,1147.88,10330.88
+INV1355,2023-06-05,6,C021,Company 21,NEW,P010,Multivitamins,Nutrition Supplements,10,1291.76,12917.59
+INV1356,2023-06-24,6,C020,Company 20,VIP,P010,Multivitamins,Nutrition Supplements,9,3468.98,31220.82
+INV1357,2023-06-16,6,C046,Company 46,VIP,P010,Multivitamins,Nutrition Supplements,6,4822.46,28934.74
+INV1358,2023-06-11,6,C044,Company 44,VIP,P002,Protein Powder,Nutrition Supplements,1,61463.9,61463.9
+INV1359,2023-06-20,6,C031,Company 31,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,10,6660.78,66607.76
+INV1360,2023-06-19,6,C015,Company 15,NEW,P001,Organic Juice,Food and Beverages,10,1734.05,17340.47
+INV1361,2023-06-25,6,C025,Company 25,NEW,P003,Vitamin D3,Nutrition Supplements,10,2352.63,23526.26
+INV1362,2023-06-23,6,C008,VitalLife Corp,SENSITIVE,P004,Sports Drinks,Food and Beverages,3,1198.4,3595.2
+INV1363,2023-06-14,6,C045,Company 45,SENSITIVE,P004,Sports Drinks,Food and Beverages,8,1692.82,13542.54
+INV1364,2023-06-28,6,C048,Company 48,NEW,P001,Organic Juice,Food and Beverages,9,2665.35,23988.13
+INV1365,2023-06-11,6,C043,Company 43,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,3,5784.93,17354.8
+INV1366,2023-06-15,6,C035,Company 35,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,5,5748.9,28744.48
+INV1367,2023-06-20,6,C031,Company 31,VIP,P004,Sports Drinks,Food and Beverages,5,10294.55,51472.77
+INV1368,2023-06-08,6,C020,Company 20,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,8,6193.59,49548.75
+INV1369,2023-06-11,6,C031,Company 31,VIP,P006,Wellness Kit,Personal Care and Wellness Products,5,9256.98,46284.9
+INV1370,2023-06-10,6,C008,VitalLife Corp,SENSITIVE,P010,Multivitamins,Nutrition Supplements,7,2159.77,15118.38
+INV1371,2023-06-27,6,C023,Company 23,VIP,P003,Vitamin D3,Nutrition Supplements,2,10959.35,21918.7
+INV1372,2023-06-12,6,C029,Company 29,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,9,3081.98,27737.82
+INV1373,2023-06-09,6,C036,Company 36,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,10,1783.9,17839.02
+INV1374,2023-06-08,6,C016,Company 16,NEW,P001,Organic Juice,Food and Beverages,4,5792.66,23170.65
+INV1375,2023-06-02,6,C007,HealthCore Systems,REGULAR,P007,Energy Bars,Food and Beverages,3,6089.2,18267.6
+INV1376,2023-06-01,6,C036,Company 36,VIP,P003,Vitamin D3,Nutrition Supplements,8,4618.25,36945.98
+INV1377,2023-06-16,6,C042,Company 42,NEW,P004,Sports Drinks,Food and Beverages,5,4510.1,22550.48
+INV1378,2023-07-02,7,C050,Company 50,REGULAR,P002,Protein Powder,Nutrition Supplements,1,25265.89,25265.89
+INV1379,2023-07-06,7,C027,Company 27,REGULAR,P003,Vitamin D3,Nutrition Supplements,7,4167.46,29172.2
+INV1380,2023-07-26,7,C032,Company 32,NEW,P003,Vitamin D3,Nutrition Supplements,5,7280.35,36401.76
+INV1381,2023-07-02,7,C001,PrimeCore Innovations,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,6,2731.55,16389.27
+INV1382,2023-07-10,7,C030,Company 30,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,3,10330.04,30990.11
+INV1383,2023-07-28,7,C033,Company 33,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,6,3244.95,19469.67
+INV1384,2023-07-06,7,C047,Company 47,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,1,33398.66,33398.66
+INV1385,2023-07-24,7,C022,Company 22,SENSITIVE,P005,Fitness Equipment,Fitness and Exercise Equipment,3,5621.7,16865.11
+INV1386,2023-07-20,7,C041,Company 41,VIP,P007,Energy Bars,Food and Beverages,2,25870.91,51741.82
+INV1387,2023-07-13,7,C043,Company 43,NEW,P002,Protein Powder,Nutrition Supplements,6,1395.32,8371.93
+INV1388,2023-07-08,7,C001,PrimeCore Innovations,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,5,2986.06,14930.28
+INV1389,2023-07-11,7,C020,Company 20,VIP,P010,Multivitamins,Nutrition Supplements,6,5811.99,34871.94
+INV1390,2023-07-23,7,C016,Company 16,NEW,P001,Organic Juice,Food and Beverages,3,7468.0,22404.01
+INV1391,2023-07-13,7,C044,Company 44,VIP,P009,Skincare Set,Personal Care and Wellness Products,5,13408.77,67043.85
+INV1392,2023-07-23,7,C008,VitalLife Corp,SENSITIVE,P005,Fitness Equipment,Fitness and Exercise Equipment,3,2887.02,8661.07
+INV1393,2023-07-16,7,C010,PureFit Industries,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,7,3732.96,26130.7
+INV1394,2023-07-23,7,C036,Company 36,VIP,P008,Yoga Mat,Fitness and Exercise Equipment,4,13773.85,55095.4
+INV1395,2023-07-25,7,C016,Company 16,NEW,P010,Multivitamins,Nutrition Supplements,8,2820.12,22560.92
+INV1396,2023-07-17,7,C046,Company 46,VIP,P006,Wellness Kit,Personal Care and Wellness Products,1,14351.27,14351.27
+INV1397,2023-07-27,7,C036,Company 36,VIP,P009,Skincare Set,Personal Care and Wellness Products,3,6825.47,20476.42
+INV1398,2023-07-11,7,C034,Company 34,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,10,920.51,9205.12
+INV1399,2023-07-16,7,C006,FreshFarm Products,VIP,P009,Skincare Set,Personal Care and Wellness Products,3,8367.8,25103.4
+INV1400,2023-07-17,7,C027,Company 27,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,5,5527.04,27635.21
+INV1401,2023-07-24,7,C002,ClearWater Tech,REGULAR,P007,Energy Bars,Food and Beverages,4,2847.21,11388.84
+INV1402,2023-07-19,7,C005,NutriMax Solutions,REGULAR,P001,Organic Juice,Food and Beverages,9,2703.22,24329.0
+INV1403,2023-07-02,7,C005,NutriMax Solutions,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,3,2562.78,7688.35
+INV1404,2023-07-25,7,C042,Company 42,NEW,P007,Energy Bars,Food and Beverages,8,2236.21,17889.67
+INV1405,2023-07-28,7,C025,Company 25,NEW,P007,Energy Bars,Food and Beverages,9,998.06,8982.52
+INV1406,2023-07-05,7,C042,Company 42,NEW,P006,Wellness Kit,Personal Care and Wellness Products,7,1475.3,10327.09
+INV1407,2023-07-17,7,C009,GreenLeaf Enterprises,VIP,P004,Sports Drinks,Food and Beverages,5,11673.72,58368.58
+INV1408,2023-07-15,7,C044,Company 44,VIP,P009,Skincare Set,Personal Care and Wellness Products,4,7330.68,29322.73
+INV1409,2023-07-08,7,C030,Company 30,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,2,5108.35,10216.7
+INV1410,2023-07-02,7,C043,Company 43,NEW,P007,Energy Bars,Food and Beverages,1,25835.49,25835.49
+INV1411,2023-07-08,7,C014,Company 14,REGULAR,P002,Protein Powder,Nutrition Supplements,10,772.45,7724.48
+INV1412,2023-07-22,7,C046,Company 46,VIP,P001,Organic Juice,Food and Beverages,8,2146.17,17169.37
+INV1413,2023-07-08,7,C035,Company 35,REGULAR,P004,Sports Drinks,Food and Beverages,3,12890.97,38672.92
+INV1414,2023-07-17,7,C019,Company 19,VIP,P004,Sports Drinks,Food and Beverages,6,9444.77,56668.62
+INV1415,2023-07-19,7,C039,Company 39,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,9,2064.38,18579.42
+INV1416,2023-07-08,7,C027,Company 27,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,10,1716.94,17169.38
+INV1417,2023-07-24,7,C012,Company 12,SENSITIVE,P007,Energy Bars,Food and Beverages,6,1648.52,9891.1
+INV1418,2023-07-21,7,C043,Company 43,NEW,P007,Energy Bars,Food and Beverages,7,3377.67,23643.72
+INV1419,2023-07-14,7,C010,PureFit Industries,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,8,2120.67,16965.34
+INV1420,2023-07-08,7,C015,Company 15,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,8,2882.38,23059.05
+INV1421,2023-07-02,7,C036,Company 36,VIP,P007,Energy Bars,Food and Beverages,3,20020.59,60061.78
+INV1422,2023-07-13,7,C016,Company 16,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,8,1415.9,11327.24
+INV1423,2023-07-28,7,C024,Company 24,NEW,P002,Protein Powder,Nutrition Supplements,1,22339.47,22339.47
+INV1424,2023-07-09,7,C025,Company 25,NEW,P010,Multivitamins,Nutrition Supplements,4,6206.64,24826.55
+INV1425,2023-07-26,7,C049,Company 49,VIP,P010,Multivitamins,Nutrition Supplements,8,5946.89,47575.16
+INV1426,2023-07-07,7,C022,Company 22,SENSITIVE,P005,Fitness Equipment,Fitness and Exercise Equipment,4,3671.13,14684.51
+INV1427,2023-07-24,7,C008,VitalLife Corp,SENSITIVE,P008,Yoga Mat,Fitness and Exercise Equipment,4,5905.24,23620.95
+INV1428,2023-07-13,7,C016,Company 16,NEW,P009,Skincare Set,Personal Care and Wellness Products,8,1534.74,12277.9
+INV1429,2023-07-18,7,C042,Company 42,NEW,P006,Wellness Kit,Personal Care and Wellness Products,8,1556.76,12454.09
+INV1430,2023-07-15,7,C007,HealthCore Systems,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,4,7549.91,30199.64
+INV1431,2023-07-12,7,C021,Company 21,NEW,P007,Energy Bars,Food and Beverages,3,2522.77,7568.3
+INV1432,2023-07-01,7,C017,Company 17,NEW,P009,Skincare Set,Personal Care and Wellness Products,7,4415.72,30910.01
+INV1433,2023-07-10,7,C010,PureFit Industries,NEW,P004,Sports Drinks,Food and Beverages,4,3278.28,13113.1
+INV1434,2023-07-16,7,C036,Company 36,VIP,P006,Wellness Kit,Personal Care and Wellness Products,8,3317.89,26543.15
+INV1435,2023-07-15,7,C011,Company 11,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,8,1818.92,14551.38
+INV1436,2023-07-06,7,C035,Company 35,REGULAR,P001,Organic Juice,Food and Beverages,2,15123.69,30247.39
+INV1437,2023-07-27,7,C043,Company 43,NEW,P001,Organic Juice,Food and Beverages,4,6064.46,24257.85
+INV1438,2023-07-03,7,C046,Company 46,VIP,P003,Vitamin D3,Nutrition Supplements,6,1747.84,10487.05
+INV1439,2023-07-02,7,C040,Company 40,NEW,P010,Multivitamins,Nutrition Supplements,1,31425.27,31425.27
+INV1440,2023-07-01,7,C035,Company 35,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,5,3097.59,15487.97
+INV1441,2023-07-18,7,C019,Company 19,VIP,P001,Organic Juice,Food and Beverages,7,5512.04,38584.3
+INV1442,2023-07-26,7,C012,Company 12,SENSITIVE,P002,Protein Powder,Nutrition Supplements,4,5326.05,21304.22
+INV1443,2023-08-20,8,C034,Company 34,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,7,4401.17,30808.2
+INV1444,2023-08-03,8,C024,Company 24,NEW,P007,Energy Bars,Food and Beverages,4,3795.84,15183.37
+INV1445,2023-08-10,8,C044,Company 44,VIP,P002,Protein Powder,Nutrition Supplements,1,50332.4,50332.4
+INV1446,2023-08-03,8,C026,Company 26,NEW,P007,Energy Bars,Food and Beverages,1,14977.59,14977.59
+INV1447,2023-08-23,8,C011,Company 11,REGULAR,P002,Protein Powder,Nutrition Supplements,6,3928.33,23569.97
+INV1448,2023-08-19,8,C007,HealthCore Systems,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,10,3312.17,33121.68
+INV1449,2023-08-16,8,C018,Company 18,VIP,P001,Organic Juice,Food and Beverages,5,12278.23,61391.15
+INV1450,2023-08-18,8,C037,Company 37,NEW,P001,Organic Juice,Food and Beverages,1,11619.76,11619.76
+INV1451,2023-08-07,8,C038,Company 38,REGULAR,P003,Vitamin D3,Nutrition Supplements,7,5340.0,37380.01
+INV1452,2023-08-03,8,C020,Company 20,VIP,P003,Vitamin D3,Nutrition Supplements,7,5638.82,39471.73
+INV1453,2023-08-22,8,C035,Company 35,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,2,11617.05,23234.1
+INV1454,2023-08-17,8,C048,Company 48,NEW,P006,Wellness Kit,Personal Care and Wellness Products,2,3230.01,6460.03
+INV1455,2023-08-11,8,C039,Company 39,REGULAR,P010,Multivitamins,Nutrition Supplements,6,6339.03,38034.18
+INV1456,2023-08-01,8,C041,Company 41,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,4,11990.38,47961.5
+INV1457,2023-08-12,8,C036,Company 36,VIP,P007,Energy Bars,Food and Beverages,7,4918.7,34430.89
+INV1458,2023-08-03,8,C050,Company 50,REGULAR,P010,Multivitamins,Nutrition Supplements,2,7413.11,14826.21
+INV1459,2023-08-03,8,C018,Company 18,VIP,P003,Vitamin D3,Nutrition Supplements,3,11038.8,33116.41
+INV1460,2023-08-24,8,C025,Company 25,NEW,P006,Wellness Kit,Personal Care and Wellness Products,5,2371.09,11855.45
+INV1461,2023-08-15,8,C024,Company 24,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,7,910.63,6374.43
+INV1462,2023-08-15,8,C036,Company 36,VIP,P009,Skincare Set,Personal Care and Wellness Products,2,14278.14,28556.28
+INV1463,2023-08-12,8,C036,Company 36,VIP,P002,Protein Powder,Nutrition Supplements,7,6501.88,45513.13
+INV1464,2023-08-01,8,C019,Company 19,VIP,P007,Energy Bars,Food and Beverages,9,2587.46,23287.14
+INV1465,2023-08-08,8,C037,Company 37,NEW,P009,Skincare Set,Personal Care and Wellness Products,3,3050.19,9150.56
+INV1466,2023-08-09,8,C020,Company 20,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,7,3869.78,27088.45
+INV1467,2023-08-09,8,C027,Company 27,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,5,3631.68,18158.42
+INV1468,2023-08-08,8,C047,Company 47,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,2,11474.85,22949.71
+INV1469,2023-08-05,8,C020,Company 20,VIP,P001,Organic Juice,Food and Beverages,10,5262.24,52622.35
+INV1470,2023-08-13,8,C022,Company 22,SENSITIVE,P008,Yoga Mat,Fitness and Exercise Equipment,10,1213.5,12135.01
+INV1471,2023-08-05,8,C020,Company 20,VIP,P006,Wellness Kit,Personal Care and Wellness Products,8,5510.26,44082.09
+INV1472,2023-08-11,8,C012,Company 12,SENSITIVE,P007,Energy Bars,Food and Beverages,8,2358.36,18866.85
+INV1473,2023-08-19,8,C016,Company 16,NEW,P006,Wellness Kit,Personal Care and Wellness Products,7,2485.78,17400.43
+INV1474,2023-08-12,8,C008,VitalLife Corp,SENSITIVE,P010,Multivitamins,Nutrition Supplements,3,3327.11,9981.33
+INV1475,2023-08-22,8,C050,Company 50,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,4,2243.31,8973.23
+INV1476,2023-08-15,8,C019,Company 19,VIP,P002,Protein Powder,Nutrition Supplements,7,8354.27,58479.88
+INV1477,2023-08-22,8,C032,Company 32,NEW,P003,Vitamin D3,Nutrition Supplements,3,6395.93,19187.78
+INV1478,2023-08-23,8,C028,Company 28,REGULAR,P007,Energy Bars,Food and Beverages,8,1534.68,12277.48
+INV1479,2023-08-19,8,C026,Company 26,NEW,P009,Skincare Set,Personal Care and Wellness Products,7,3180.25,22261.76
+INV1480,2023-08-18,8,C003,Silverline Industries,NEW,P006,Wellness Kit,Personal Care and Wellness Products,10,2718.76,27187.62
+INV1481,2023-08-21,8,C006,FreshFarm Products,VIP,P002,Protein Powder,Nutrition Supplements,6,8710.9,52265.42
+INV1482,2023-08-06,8,C042,Company 42,NEW,P010,Multivitamins,Nutrition Supplements,7,1127.08,7889.59
+INV1483,2023-08-25,8,C022,Company 22,SENSITIVE,P007,Energy Bars,Food and Beverages,4,1050.35,4201.41
+INV1484,2023-08-17,8,C048,Company 48,NEW,P009,Skincare Set,Personal Care and Wellness Products,4,5418.86,21675.43
+INV1485,2023-08-15,8,C024,Company 24,NEW,P007,Energy Bars,Food and Beverages,9,2099.29,18893.62
+INV1486,2023-08-05,8,C023,Company 23,VIP,P001,Organic Juice,Food and Beverages,2,15323.37,30646.73
+INV1487,2023-08-04,8,C047,Company 47,REGULAR,P003,Vitamin D3,Nutrition Supplements,4,4367.62,17470.48
+INV1488,2023-08-17,8,C031,Company 31,VIP,P006,Wellness Kit,Personal Care and Wellness Products,8,4095.36,32762.88
+INV1489,2023-08-11,8,C005,NutriMax Solutions,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,1,9595.39,9595.39
+INV1490,2023-08-28,8,C022,Company 22,SENSITIVE,P002,Protein Powder,Nutrition Supplements,4,3191.56,12766.26
+INV1491,2023-08-17,8,C012,Company 12,SENSITIVE,P009,Skincare Set,Personal Care and Wellness Products,8,877.75,7021.97
+INV1492,2023-08-08,8,C026,Company 26,NEW,P003,Vitamin D3,Nutrition Supplements,7,1557.49,10902.43
+INV1493,2023-08-01,8,C048,Company 48,NEW,P010,Multivitamins,Nutrition Supplements,7,3964.09,27748.62
+INV1494,2023-08-13,8,C001,PrimeCore Innovations,NEW,P004,Sports Drinks,Food and Beverages,2,5965.86,11931.71
+INV1495,2023-08-19,8,C007,HealthCore Systems,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,8,1524.61,12196.86
+INV1496,2023-08-04,8,C017,Company 17,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,10,2036.79,20367.91
+INV1497,2023-08-13,8,C040,Company 40,NEW,P007,Energy Bars,Food and Beverages,8,2395.35,19162.82
+INV1498,2023-08-20,8,C012,Company 12,SENSITIVE,P005,Fitness Equipment,Fitness and Exercise Equipment,3,7412.06,22236.17
+INV1499,2023-08-11,8,C008,VitalLife Corp,SENSITIVE,P004,Sports Drinks,Food and Beverages,3,2491.2,7473.59
+INV1500,2023-08-17,8,C025,Company 25,NEW,P007,Energy Bars,Food and Beverages,7,3092.99,21650.9
+INV1501,2023-08-06,8,C032,Company 32,NEW,P009,Skincare Set,Personal Care and Wellness Products,3,8358.29,25074.87
+INV1502,2023-08-18,8,C011,Company 11,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,8,1756.26,14050.08
+INV1503,2023-08-20,8,C004,AquaVita Industries,VIP,P006,Wellness Kit,Personal Care and Wellness Products,4,14287.22,57148.9
+INV1504,2023-09-18,9,C033,Company 33,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,8,2652.36,21218.9
+INV1505,2023-09-16,9,C011,Company 11,REGULAR,P002,Protein Powder,Nutrition Supplements,4,7829.56,31318.25
+INV1506,2023-09-10,9,C003,Silverline Industries,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,8,1253.73,10029.86
+INV1507,2023-09-19,9,C048,Company 48,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,2,8027.74,16055.49
+INV1508,2023-09-09,9,C050,Company 50,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,1,33090.14,33090.14
+INV1509,2023-09-25,9,C047,Company 47,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,2,16716.64,33433.28
+INV1510,2023-09-24,9,C042,Company 42,NEW,P004,Sports Drinks,Food and Beverages,8,2021.41,16171.26
+INV1511,2023-09-09,9,C023,Company 23,VIP,P002,Protein Powder,Nutrition Supplements,4,9961.33,39845.33
+INV1512,2023-09-07,9,C048,Company 48,NEW,P010,Multivitamins,Nutrition Supplements,10,2735.25,27352.51
+INV1513,2023-09-21,9,C028,Company 28,REGULAR,P003,Vitamin D3,Nutrition Supplements,4,8303.72,33214.89
+INV1514,2023-09-26,9,C004,AquaVita Industries,VIP,P010,Multivitamins,Nutrition Supplements,9,2725.14,24526.23
+INV1515,2023-09-06,9,C021,Company 21,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,9,1269.1,11421.91
+INV1516,2023-09-22,9,C007,HealthCore Systems,REGULAR,P003,Vitamin D3,Nutrition Supplements,1,47340.89,47340.89
+INV1517,2023-09-09,9,C042,Company 42,NEW,P003,Vitamin D3,Nutrition Supplements,3,6507.89,19523.67
+INV1518,2023-09-23,9,C021,Company 21,NEW,P004,Sports Drinks,Food and Beverages,8,3419.59,27356.74
+INV1519,2023-09-05,9,C037,Company 37,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,2,10219.21,20438.41
+INV1520,2023-09-21,9,C050,Company 50,REGULAR,P002,Protein Powder,Nutrition Supplements,6,4018.61,24111.65
+INV1521,2023-09-15,9,C032,Company 32,NEW,P006,Wellness Kit,Personal Care and Wellness Products,2,12066.1,24132.2
+INV1522,2023-09-24,9,C030,Company 30,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,7,6137.65,42963.58
+INV1523,2023-09-07,9,C028,Company 28,REGULAR,P004,Sports Drinks,Food and Beverages,5,4370.77,21853.86
+INV1524,2023-09-11,9,C036,Company 36,VIP,P010,Multivitamins,Nutrition Supplements,6,3240.41,19442.43
+INV1525,2023-09-22,9,C049,Company 49,VIP,P001,Organic Juice,Food and Beverages,8,1634.12,13072.97
+INV1526,2023-09-01,9,C008,VitalLife Corp,SENSITIVE,P003,Vitamin D3,Nutrition Supplements,7,1145.93,8021.49
+INV1527,2023-09-07,9,C045,Company 45,SENSITIVE,P003,Vitamin D3,Nutrition Supplements,5,3522.03,17610.14
+INV1528,2023-09-03,9,C042,Company 42,NEW,P006,Wellness Kit,Personal Care and Wellness Products,3,3700.41,11101.22
+INV1529,2023-09-02,9,C026,Company 26,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,7,3894.5,27261.47
+INV1530,2023-09-21,9,C006,FreshFarm Products,VIP,P002,Protein Powder,Nutrition Supplements,3,3312.57,9937.72
+INV1531,2023-09-19,9,C015,Company 15,NEW,P009,Skincare Set,Personal Care and Wellness Products,6,2950.3,17701.81
+INV1532,2023-09-27,9,C008,VitalLife Corp,SENSITIVE,P007,Energy Bars,Food and Beverages,4,4128.47,16513.87
+INV1533,2023-09-13,9,C006,FreshFarm Products,VIP,P002,Protein Powder,Nutrition Supplements,5,2831.24,14156.19
+INV1534,2023-09-05,9,C025,Company 25,NEW,P003,Vitamin D3,Nutrition Supplements,2,11977.4,23954.8
+INV1535,2023-09-17,9,C037,Company 37,NEW,P001,Organic Juice,Food and Beverages,6,2978.12,17868.72
+INV1536,2023-09-24,9,C014,Company 14,REGULAR,P003,Vitamin D3,Nutrition Supplements,8,5224.52,41796.15
+INV1537,2023-09-28,9,C014,Company 14,REGULAR,P002,Protein Powder,Nutrition Supplements,2,15242.79,30485.57
+INV1538,2023-09-19,9,C047,Company 47,REGULAR,P007,Energy Bars,Food and Beverages,3,6174.95,18524.85
+INV1539,2023-09-08,9,C018,Company 18,VIP,P002,Protein Powder,Nutrition Supplements,10,2354.0,23539.96
+INV1540,2023-09-10,9,C050,Company 50,REGULAR,P001,Organic Juice,Food and Beverages,5,7999.21,39996.06
+INV1541,2023-09-07,9,C034,Company 34,REGULAR,P010,Multivitamins,Nutrition Supplements,5,5670.06,28350.3
+INV1542,2023-09-21,9,C004,AquaVita Industries,VIP,P004,Sports Drinks,Food and Beverages,8,3502.11,28016.89
+INV1543,2023-09-21,9,C039,Company 39,REGULAR,P002,Protein Powder,Nutrition Supplements,6,5408.01,32448.03
+INV1544,2023-09-11,9,C009,GreenLeaf Enterprises,VIP,P007,Energy Bars,Food and Beverages,6,9142.36,54854.17
+INV1545,2023-09-18,9,C044,Company 44,VIP,P003,Vitamin D3,Nutrition Supplements,2,29537.07,59074.14
+INV1546,2023-09-01,9,C038,Company 38,REGULAR,P002,Protein Powder,Nutrition Supplements,1,6267.32,6267.32
+INV1547,2023-09-26,9,C026,Company 26,NEW,P009,Skincare Set,Personal Care and Wellness Products,7,2009.05,14063.32
+INV1548,2023-09-14,9,C045,Company 45,SENSITIVE,P007,Energy Bars,Food and Beverages,10,542.46,5424.61
+INV1549,2023-09-05,9,C018,Company 18,VIP,P002,Protein Powder,Nutrition Supplements,4,6409.86,25639.45
+INV1550,2023-09-26,9,C010,PureFit Industries,NEW,P009,Skincare Set,Personal Care and Wellness Products,2,7198.17,14396.33
+INV1551,2023-09-10,9,C045,Company 45,SENSITIVE,P007,Energy Bars,Food and Beverages,1,21464.23,21464.23
+INV1552,2023-09-08,9,C006,FreshFarm Products,VIP,P007,Energy Bars,Food and Beverages,1,16686.44,16686.44
+INV1553,2023-09-10,9,C043,Company 43,NEW,P003,Vitamin D3,Nutrition Supplements,1,9215.53,9215.53
+INV1554,2023-09-06,9,C032,Company 32,NEW,P006,Wellness Kit,Personal Care and Wellness Products,5,4307.28,21536.41
+INV1555,2023-09-06,9,C024,Company 24,NEW,P003,Vitamin D3,Nutrition Supplements,2,14682.71,29365.42
+INV1556,2023-09-25,9,C002,ClearWater Tech,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,2,15327.99,30655.97
+INV1557,2023-09-09,9,C046,Company 46,VIP,P010,Multivitamins,Nutrition Supplements,9,4588.55,41296.94
+INV1558,2023-09-12,9,C004,AquaVita Industries,VIP,P008,Yoga Mat,Fitness and Exercise Equipment,3,14715.23,44145.68
+INV1559,2023-09-09,9,C050,Company 50,REGULAR,P002,Protein Powder,Nutrition Supplements,2,21055.04,42110.08
+INV1560,2023-09-08,9,C048,Company 48,NEW,P009,Skincare Set,Personal Care and Wellness Products,1,6225.66,6225.66
+INV1561,2023-09-08,9,C003,Silverline Industries,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,3,5922.29,17766.86
+INV1562,2023-09-28,9,C003,Silverline Industries,NEW,P009,Skincare Set,Personal Care and Wellness Products,7,4145.05,29015.38
+INV1563,2023-09-08,9,C021,Company 21,NEW,P004,Sports Drinks,Food and Beverages,5,3574.73,17873.66
+INV1564,2023-09-27,9,C005,NutriMax Solutions,REGULAR,P010,Multivitamins,Nutrition Supplements,1,20071.67,20071.67
+INV1565,2023-09-06,9,C015,Company 15,NEW,P009,Skincare Set,Personal Care and Wellness Products,2,18858.91,37717.81
+INV1566,2023-09-15,9,C019,Company 19,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,1,27064.92,27064.92
+INV1567,2023-10-07,10,C019,Company 19,VIP,P010,Multivitamins,Nutrition Supplements,4,13780.49,55121.97
+INV1568,2023-10-15,10,C024,Company 24,NEW,P010,Multivitamins,Nutrition Supplements,4,9513.24,38052.96
+INV1569,2023-10-24,10,C035,Company 35,REGULAR,P004,Sports Drinks,Food and Beverages,1,15301.5,15301.5
+INV1570,2023-10-08,10,C035,Company 35,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,1,32492.4,32492.4
+INV1571,2023-10-11,10,C001,PrimeCore Innovations,NEW,P007,Energy Bars,Food and Beverages,2,15257.89,30515.78
+INV1572,2023-10-07,10,C034,Company 34,REGULAR,P004,Sports Drinks,Food and Beverages,3,9136.85,27410.55
+INV1573,2023-10-23,10,C018,Company 18,VIP,P002,Protein Powder,Nutrition Supplements,9,1173.07,10557.67
+INV1574,2023-10-14,10,C045,Company 45,SENSITIVE,P006,Wellness Kit,Personal Care and Wellness Products,10,1438.65,14386.48
+INV1575,2023-10-04,10,C033,Company 33,REGULAR,P003,Vitamin D3,Nutrition Supplements,10,2753.35,27533.53
+INV1576,2023-10-19,10,C004,AquaVita Industries,VIP,P007,Energy Bars,Food and Beverages,5,7031.97,35159.86
+INV1577,2023-10-09,10,C021,Company 21,NEW,P007,Energy Bars,Food and Beverages,6,4382.32,26293.9
+INV1578,2023-10-15,10,C018,Company 18,VIP,P004,Sports Drinks,Food and Beverages,10,1169.28,11692.84
+INV1579,2023-10-04,10,C010,PureFit Industries,NEW,P002,Protein Powder,Nutrition Supplements,7,1344.32,9410.23
+INV1580,2023-10-04,10,C035,Company 35,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,5,6790.46,33952.28
+INV1581,2023-10-15,10,C017,Company 17,NEW,P002,Protein Powder,Nutrition Supplements,5,1748.04,8740.21
+INV1582,2023-10-27,10,C046,Company 46,VIP,P010,Multivitamins,Nutrition Supplements,6,2339.13,14034.81
+INV1583,2023-10-05,10,C006,FreshFarm Products,VIP,P004,Sports Drinks,Food and Beverages,1,55389.3,55389.3
+INV1584,2023-10-22,10,C020,Company 20,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,7,6098.2,42687.38
+INV1585,2023-10-28,10,C029,Company 29,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,8,3554.94,28439.56
+INV1586,2023-10-04,10,C009,GreenLeaf Enterprises,VIP,P002,Protein Powder,Nutrition Supplements,4,3087.12,12348.46
+INV1587,2023-10-05,10,C013,Company 13,VIP,P007,Energy Bars,Food and Beverages,2,15238.01,30476.02
+INV1588,2023-10-19,10,C038,Company 38,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,2,14805.79,29611.57
+INV1589,2023-10-07,10,C042,Company 42,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,6,3557.73,21346.4
+INV1590,2023-10-04,10,C003,Silverline Industries,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,7,1129.72,7908.03
+INV1591,2023-10-27,10,C047,Company 47,REGULAR,P007,Energy Bars,Food and Beverages,7,3247.39,22731.72
+INV1592,2023-10-06,10,C023,Company 23,VIP,P004,Sports Drinks,Food and Beverages,8,6147.56,49180.49
+INV1593,2023-10-05,10,C003,Silverline Industries,NEW,P010,Multivitamins,Nutrition Supplements,5,3780.06,18900.3
+INV1594,2023-10-16,10,C027,Company 27,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,7,2595.3,18167.09
+INV1595,2023-10-05,10,C027,Company 27,REGULAR,P004,Sports Drinks,Food and Beverages,4,8625.38,34501.53
+INV1596,2023-10-21,10,C035,Company 35,REGULAR,P001,Organic Juice,Food and Beverages,6,8055.89,48335.36
+INV1597,2023-10-16,10,C035,Company 35,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,6,3292.59,19755.52
+INV1598,2023-10-13,10,C018,Company 18,VIP,P003,Vitamin D3,Nutrition Supplements,1,11852.01,11852.01
+INV1599,2023-10-26,10,C050,Company 50,REGULAR,P005,Fitness Equipment,Fitness and Exercise Equipment,9,1288.09,11592.81
+INV1600,2023-10-12,10,C050,Company 50,REGULAR,P010,Multivitamins,Nutrition Supplements,2,26678.99,53357.98
+INV1601,2023-10-08,10,C043,Company 43,NEW,P004,Sports Drinks,Food and Beverages,1,14090.78,14090.78
+INV1602,2023-10-25,10,C015,Company 15,NEW,P010,Multivitamins,Nutrition Supplements,6,5226.84,31361.02
+INV1603,2023-10-27,10,C012,Company 12,SENSITIVE,P003,Vitamin D3,Nutrition Supplements,6,1198.7,7192.2
+INV1604,2023-10-19,10,C002,ClearWater Tech,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,10,4162.44,41624.4
+INV1605,2023-10-07,10,C032,Company 32,NEW,P009,Skincare Set,Personal Care and Wellness Products,2,6650.89,13301.79
+INV1606,2023-10-02,10,C015,Company 15,NEW,P010,Multivitamins,Nutrition Supplements,1,11132.2,11132.2
+INV1607,2023-10-11,10,C040,Company 40,NEW,P004,Sports Drinks,Food and Beverages,3,8138.62,24415.85
+INV1608,2023-10-26,10,C021,Company 21,NEW,P001,Organic Juice,Food and Beverages,3,2021.82,6065.46
+INV1609,2023-10-25,10,C008,VitalLife Corp,SENSITIVE,P009,Skincare Set,Personal Care and Wellness Products,6,4332.3,25993.81
+INV1610,2023-10-23,10,C043,Company 43,NEW,P007,Energy Bars,Food and Beverages,6,3171.19,19027.12
+INV1611,2023-10-05,10,C011,Company 11,REGULAR,P007,Energy Bars,Food and Beverages,6,7308.76,43852.57
+INV1612,2023-10-06,10,C046,Company 46,VIP,P009,Skincare Set,Personal Care and Wellness Products,6,9043.0,54258.0
+INV1613,2023-10-08,10,C043,Company 43,NEW,P010,Multivitamins,Nutrition Supplements,5,5017.45,25087.25
+INV1614,2023-10-05,10,C012,Company 12,SENSITIVE,P001,Organic Juice,Food and Beverages,7,3997.57,27983.02
+INV1615,2023-10-28,10,C050,Company 50,REGULAR,P010,Multivitamins,Nutrition Supplements,10,860.93,8609.26
+INV1616,2023-10-08,10,C041,Company 41,VIP,P010,Multivitamins,Nutrition Supplements,6,2529.42,15176.51
+INV1617,2023-10-24,10,C005,NutriMax Solutions,REGULAR,P004,Sports Drinks,Food and Beverages,2,8582.29,17164.57
+INV1618,2023-10-27,10,C046,Company 46,VIP,P006,Wellness Kit,Personal Care and Wellness Products,4,7134.0,28535.98
+INV1619,2023-10-23,10,C005,NutriMax Solutions,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,1,12403.15,12403.15
+INV1620,2023-10-02,10,C025,Company 25,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,7,4278.4,29948.81
+INV1621,2023-10-16,10,C025,Company 25,NEW,P006,Wellness Kit,Personal Care and Wellness Products,8,1983.29,15866.33
+INV1622,2023-10-26,10,C037,Company 37,NEW,P004,Sports Drinks,Food and Beverages,1,7587.27,7587.27
+INV1623,2023-10-10,10,C002,ClearWater Tech,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,6,2082.34,12494.03
+INV1624,2023-10-06,10,C025,Company 25,NEW,P003,Vitamin D3,Nutrition Supplements,2,12506.34,25012.69
+INV1625,2023-10-11,10,C039,Company 39,REGULAR,P010,Multivitamins,Nutrition Supplements,7,6104.9,42734.31
+INV1626,2023-10-21,10,C011,Company 11,REGULAR,P010,Multivitamins,Nutrition Supplements,2,15333.96,30667.92
+INV1627,2023-10-11,10,C014,Company 14,REGULAR,P004,Sports Drinks,Food and Beverages,9,2442.69,21984.19
+INV1628,2023-10-09,10,C043,Company 43,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,7,1506.34,10544.37
+INV1629,2023-11-18,11,C032,Company 32,NEW,P003,Vitamin D3,Nutrition Supplements,2,2551.12,5102.24
+INV1630,2023-11-10,11,C043,Company 43,NEW,P010,Multivitamins,Nutrition Supplements,4,3607.84,14431.35
+INV1631,2023-11-06,11,C041,Company 41,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,2,29037.58,58075.16
+INV1632,2023-11-10,11,C026,Company 26,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,2,9737.97,19475.94
+INV1633,2023-11-21,11,C035,Company 35,REGULAR,P007,Energy Bars,Food and Beverages,6,2739.7,16438.22
+INV1634,2023-11-06,11,C029,Company 29,REGULAR,P001,Organic Juice,Food and Beverages,4,3972.9,15891.59
+INV1635,2023-11-27,11,C018,Company 18,VIP,P010,Multivitamins,Nutrition Supplements,2,7365.92,14731.83
+INV1636,2023-11-03,11,C043,Company 43,NEW,P006,Wellness Kit,Personal Care and Wellness Products,10,2538.08,25380.77
+INV1637,2023-11-08,11,C036,Company 36,VIP,P001,Organic Juice,Food and Beverages,7,8617.82,60324.74
+INV1638,2023-11-18,11,C044,Company 44,VIP,P008,Yoga Mat,Fitness and Exercise Equipment,5,6705.78,33528.88
+INV1639,2023-11-03,11,C026,Company 26,NEW,P001,Organic Juice,Food and Beverages,10,2194.47,21944.66
+INV1640,2023-11-22,11,C040,Company 40,NEW,P003,Vitamin D3,Nutrition Supplements,3,3145.69,9437.06
+INV1641,2023-11-06,11,C014,Company 14,REGULAR,P004,Sports Drinks,Food and Beverages,7,1559.52,10916.63
+INV1642,2023-11-07,11,C041,Company 41,VIP,P003,Vitamin D3,Nutrition Supplements,2,22723.06,45446.11
+INV1643,2023-11-03,11,C025,Company 25,NEW,P009,Skincare Set,Personal Care and Wellness Products,5,2876.45,14382.27
+INV1644,2023-11-17,11,C030,Company 30,REGULAR,P001,Organic Juice,Food and Beverages,9,4106.37,36957.33
+INV1645,2023-11-26,11,C027,Company 27,REGULAR,P002,Protein Powder,Nutrition Supplements,10,1718.23,17182.26
+INV1646,2023-11-19,11,C049,Company 49,VIP,P002,Protein Powder,Nutrition Supplements,2,29004.64,58009.28
+INV1647,2023-11-26,11,C019,Company 19,VIP,P009,Skincare Set,Personal Care and Wellness Products,5,12842.24,64211.2
+INV1648,2023-11-13,11,C042,Company 42,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,3,6668.5,20005.5
+INV1649,2023-11-09,11,C026,Company 26,NEW,P003,Vitamin D3,Nutrition Supplements,7,3332.61,23328.28
+INV1650,2023-11-02,11,C026,Company 26,NEW,P006,Wellness Kit,Personal Care and Wellness Products,8,2294.87,18358.95
+INV1651,2023-11-09,11,C024,Company 24,NEW,P001,Organic Juice,Food and Beverages,5,3218.66,16093.3
+INV1652,2023-11-09,11,C032,Company 32,NEW,P002,Protein Powder,Nutrition Supplements,5,5358.18,26790.92
+INV1653,2023-11-24,11,C029,Company 29,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,2,7824.16,15648.33
+INV1654,2023-11-07,11,C029,Company 29,REGULAR,P004,Sports Drinks,Food and Beverages,8,4612.87,36902.96
+INV1655,2023-11-25,11,C034,Company 34,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,3,12015.81,36047.42
+INV1656,2023-11-03,11,C020,Company 20,VIP,P009,Skincare Set,Personal Care and Wellness Products,9,3822.3,34400.74
+INV1657,2023-11-19,11,C002,ClearWater Tech,REGULAR,P003,Vitamin D3,Nutrition Supplements,1,16361.97,16361.97
+INV1658,2023-11-08,11,C003,Silverline Industries,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,4,1534.97,6139.88
+INV1659,2023-11-09,11,C024,Company 24,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,2,9851.54,19703.08
+INV1660,2023-11-22,11,C002,ClearWater Tech,REGULAR,P004,Sports Drinks,Food and Beverages,3,7037.69,21113.07
+INV1661,2023-11-28,11,C031,Company 31,VIP,P010,Multivitamins,Nutrition Supplements,5,6928.23,34641.16
+INV1662,2023-11-24,11,C045,Company 45,SENSITIVE,P002,Protein Powder,Nutrition Supplements,3,2802.42,8407.26
+INV1663,2023-11-28,11,C037,Company 37,NEW,P004,Sports Drinks,Food and Beverages,4,7424.16,29696.63
+INV1664,2023-11-09,11,C042,Company 42,NEW,P007,Energy Bars,Food and Beverages,1,21974.68,21974.68
+INV1665,2023-11-16,11,C009,GreenLeaf Enterprises,VIP,P003,Vitamin D3,Nutrition Supplements,5,6042.47,30212.34
+INV1666,2023-11-20,11,C020,Company 20,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,6,4877.33,29263.95
+INV1667,2023-11-15,11,C017,Company 17,NEW,P004,Sports Drinks,Food and Beverages,10,1897.75,18977.53
+INV1668,2023-11-13,11,C038,Company 38,REGULAR,P002,Protein Powder,Nutrition Supplements,6,1554.71,9328.27
+INV1669,2023-11-18,11,C042,Company 42,NEW,P010,Multivitamins,Nutrition Supplements,2,9599.76,19199.53
+INV1670,2023-11-16,11,C005,NutriMax Solutions,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,5,8986.84,44934.18
+INV1671,2023-11-09,11,C042,Company 42,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,4,2569.6,10278.4
+INV1672,2023-11-02,11,C039,Company 39,REGULAR,P007,Energy Bars,Food and Beverages,1,33229.48,33229.48
+INV1673,2023-11-21,11,C032,Company 32,NEW,P005,Fitness Equipment,Fitness and Exercise Equipment,7,1656.04,11592.28
+INV1674,2023-11-24,11,C003,Silverline Industries,NEW,P010,Multivitamins,Nutrition Supplements,4,6163.64,24654.55
+INV1675,2023-11-11,11,C047,Company 47,REGULAR,P004,Sports Drinks,Food and Beverages,8,4184.12,33472.93
+INV1676,2023-11-22,11,C023,Company 23,VIP,P009,Skincare Set,Personal Care and Wellness Products,9,2320.33,20882.97
+INV1677,2023-11-06,11,C019,Company 19,VIP,P002,Protein Powder,Nutrition Supplements,9,4175.46,37579.14
+INV1678,2023-11-25,11,C012,Company 12,SENSITIVE,P006,Wellness Kit,Personal Care and Wellness Products,4,3263.55,13054.2
+INV1679,2023-11-24,11,C020,Company 20,VIP,P007,Energy Bars,Food and Beverages,5,9047.53,45237.67
+INV1680,2023-11-19,11,C019,Company 19,VIP,P008,Yoga Mat,Fitness and Exercise Equipment,10,5178.64,51786.39
+INV1681,2023-11-19,11,C040,Company 40,NEW,P002,Protein Powder,Nutrition Supplements,2,7539.55,15079.1
+INV1682,2023-11-28,11,C044,Company 44,VIP,P007,Energy Bars,Food and Beverages,3,11635.49,34906.48
+INV1683,2023-11-05,11,C013,Company 13,VIP,P006,Wellness Kit,Personal Care and Wellness Products,8,3939.57,31516.59
+INV1684,2023-11-05,11,C021,Company 21,NEW,P003,Vitamin D3,Nutrition Supplements,3,8515.08,25545.24
+INV1685,2023-11-11,11,C041,Company 41,VIP,P001,Organic Juice,Food and Beverages,3,3025.54,9076.63
+INV1686,2023-11-19,11,C049,Company 49,VIP,P003,Vitamin D3,Nutrition Supplements,2,19511.32,39022.64
+INV1687,2023-11-05,11,C040,Company 40,NEW,P007,Energy Bars,Food and Beverages,8,2609.07,20872.54
+INV1688,2023-11-13,11,C001,PrimeCore Innovations,NEW,P001,Organic Juice,Food and Beverages,1,21377.46,21377.46
+INV1689,2023-11-11,11,C049,Company 49,VIP,P009,Skincare Set,Personal Care and Wellness Products,4,5313.67,21254.68
+INV1690,2023-11-08,11,C045,Company 45,SENSITIVE,P006,Wellness Kit,Personal Care and Wellness Products,9,784.29,7058.6
+INV1691,2023-11-19,11,C020,Company 20,VIP,P003,Vitamin D3,Nutrition Supplements,5,2050.3,10251.48
+INV1692,2023-11-15,11,C047,Company 47,REGULAR,P009,Skincare Set,Personal Care and Wellness Products,3,8430.03,25290.08
+INV1693,2023-12-16,12,C023,Company 23,VIP,P004,Sports Drinks,Food and Beverages,7,3136.56,21955.9
+INV1694,2023-12-01,12,C015,Company 15,NEW,P004,Sports Drinks,Food and Beverages,1,20064.0,20064.0
+INV1695,2023-12-19,12,C033,Company 33,REGULAR,P003,Vitamin D3,Nutrition Supplements,1,12675.12,12675.12
+INV1696,2023-12-13,12,C041,Company 41,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,10,5155.23,51552.35
+INV1697,2023-12-02,12,C043,Company 43,NEW,P002,Protein Powder,Nutrition Supplements,2,8640.99,17281.99
+INV1698,2023-12-14,12,C029,Company 29,REGULAR,P007,Energy Bars,Food and Beverages,3,3241.86,9725.57
+INV1699,2023-12-07,12,C045,Company 45,SENSITIVE,P001,Organic Juice,Food and Beverages,9,1156.51,10408.59
+INV1700,2023-12-09,12,C040,Company 40,NEW,P010,Multivitamins,Nutrition Supplements,2,11365.06,22730.12
+INV1701,2023-12-17,12,C047,Company 47,REGULAR,P010,Multivitamins,Nutrition Supplements,2,4333.94,8667.88
+INV1702,2023-12-16,12,C013,Company 13,VIP,P010,Multivitamins,Nutrition Supplements,9,1957.65,17618.89
+INV1703,2023-12-07,12,C023,Company 23,VIP,P007,Energy Bars,Food and Beverages,8,2382.96,19063.66
+INV1704,2023-12-07,12,C045,Company 45,SENSITIVE,P008,Yoga Mat,Fitness and Exercise Equipment,2,3325.35,6650.71
+INV1705,2023-12-04,12,C037,Company 37,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,9,819.56,7376.04
+INV1706,2023-12-03,12,C047,Company 47,REGULAR,P002,Protein Powder,Nutrition Supplements,8,5232.06,41856.48
+INV1707,2023-12-10,12,C017,Company 17,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,1,7543.6,7543.6
+INV1708,2023-12-28,12,C019,Company 19,VIP,P006,Wellness Kit,Personal Care and Wellness Products,2,22695.0,45390.01
+INV1709,2023-12-04,12,C049,Company 49,VIP,P001,Organic Juice,Food and Beverages,3,2862.72,8588.15
+INV1710,2023-12-11,12,C023,Company 23,VIP,P008,Yoga Mat,Fitness and Exercise Equipment,2,25531.94,51063.88
+INV1711,2023-12-12,12,C022,Company 22,SENSITIVE,P003,Vitamin D3,Nutrition Supplements,8,686.63,5493.04
+INV1712,2023-12-09,12,C025,Company 25,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,3,9369.25,28107.74
+INV1713,2023-12-04,12,C009,GreenLeaf Enterprises,VIP,P001,Organic Juice,Food and Beverages,2,34625.14,69250.29
+INV1714,2023-12-14,12,C038,Company 38,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,3,12885.07,38655.21
+INV1715,2023-12-20,12,C025,Company 25,NEW,P006,Wellness Kit,Personal Care and Wellness Products,3,8325.13,24975.39
+INV1716,2023-12-16,12,C032,Company 32,NEW,P002,Protein Powder,Nutrition Supplements,2,13871.5,27743.0
+INV1717,2023-12-09,12,C042,Company 42,NEW,P006,Wellness Kit,Personal Care and Wellness Products,9,728.02,6552.19
+INV1718,2023-12-25,12,C048,Company 48,NEW,P010,Multivitamins,Nutrition Supplements,6,3510.31,21061.86
+INV1719,2023-12-17,12,C034,Company 34,REGULAR,P010,Multivitamins,Nutrition Supplements,4,2822.09,11288.37
+INV1720,2023-12-16,12,C023,Company 23,VIP,P007,Energy Bars,Food and Beverages,10,2027.81,20278.07
+INV1721,2023-12-02,12,C001,PrimeCore Innovations,NEW,P003,Vitamin D3,Nutrition Supplements,8,2281.29,18250.29
+INV1722,2023-12-28,12,C011,Company 11,REGULAR,P002,Protein Powder,Nutrition Supplements,6,4981.16,29886.96
+INV1723,2023-12-09,12,C004,AquaVita Industries,VIP,P009,Skincare Set,Personal Care and Wellness Products,7,3235.69,22649.86
+INV1724,2023-12-27,12,C016,Company 16,NEW,P002,Protein Powder,Nutrition Supplements,8,2472.9,19783.23
+INV1725,2023-12-03,12,C032,Company 32,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,1,16647.31,16647.31
+INV1726,2023-12-04,12,C026,Company 26,NEW,P007,Energy Bars,Food and Beverages,2,3167.66,6335.33
+INV1727,2023-12-26,12,C039,Company 39,REGULAR,P010,Multivitamins,Nutrition Supplements,9,3983.17,35848.49
+INV1728,2023-12-07,12,C042,Company 42,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,1,28231.76,28231.76
+INV1729,2023-12-27,12,C015,Company 15,NEW,P008,Yoga Mat,Fitness and Exercise Equipment,10,1574.25,15742.51
+INV1730,2023-12-16,12,C046,Company 46,VIP,P006,Wellness Kit,Personal Care and Wellness Products,4,9239.41,36957.64
+INV1731,2023-12-01,12,C022,Company 22,SENSITIVE,P006,Wellness Kit,Personal Care and Wellness Products,5,5057.85,25289.23
+INV1732,2023-12-18,12,C034,Company 34,REGULAR,P006,Wellness Kit,Personal Care and Wellness Products,3,7792.78,23378.33
+INV1733,2023-12-16,12,C009,GreenLeaf Enterprises,VIP,P007,Energy Bars,Food and Beverages,4,4049.69,16198.76
+INV1734,2023-12-04,12,C026,Company 26,NEW,P004,Sports Drinks,Food and Beverages,6,3259.8,19558.78
+INV1735,2023-12-04,12,C049,Company 49,VIP,P007,Energy Bars,Food and Beverages,10,1314.61,13146.11
+INV1736,2023-12-04,12,C050,Company 50,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,9,2686.99,24182.88
+INV1737,2023-12-05,12,C032,Company 32,NEW,P001,Organic Juice,Food and Beverages,7,2150.1,15050.72
+INV1738,2023-12-27,12,C038,Company 38,REGULAR,P008,Yoga Mat,Fitness and Exercise Equipment,3,15224.59,45673.78
+INV1739,2023-12-23,12,C038,Company 38,REGULAR,P003,Vitamin D3,Nutrition Supplements,7,3664.51,25651.54
+INV1740,2023-12-22,12,C039,Company 39,REGULAR,P010,Multivitamins,Nutrition Supplements,7,5426.19,37983.36
+INV1741,2023-12-14,12,C039,Company 39,REGULAR,P004,Sports Drinks,Food and Beverages,5,4193.4,20966.98
+INV1742,2023-12-15,12,C009,GreenLeaf Enterprises,VIP,P003,Vitamin D3,Nutrition Supplements,9,3744.58,33701.22
+INV1743,2023-12-10,12,C045,Company 45,SENSITIVE,P009,Skincare Set,Personal Care and Wellness Products,9,2521.94,22697.48
+INV1744,2023-12-21,12,C014,Company 14,REGULAR,P004,Sports Drinks,Food and Beverages,6,2682.78,16096.67
+INV1745,2023-12-22,12,C009,GreenLeaf Enterprises,VIP,P003,Vitamin D3,Nutrition Supplements,6,6435.67,38614.05
+INV1746,2023-12-23,12,C008,VitalLife Corp,SENSITIVE,P006,Wellness Kit,Personal Care and Wellness Products,7,2154.54,15081.77
+INV1747,2023-12-22,12,C048,Company 48,NEW,P009,Skincare Set,Personal Care and Wellness Products,1,14865.15,14865.15
+INV1748,2023-12-17,12,C007,HealthCore Systems,REGULAR,P001,Organic Juice,Food and Beverages,1,15138.24,15138.24
+INV1749,2023-12-07,12,C018,Company 18,VIP,P003,Vitamin D3,Nutrition Supplements,3,21534.28,64602.83
+INV1750,2023-12-27,12,C004,AquaVita Industries,VIP,P005,Fitness Equipment,Fitness and Exercise Equipment,6,3435.98,20615.88
+INV1751,2023-12-27,12,C029,Company 29,REGULAR,P002,Protein Powder,Nutrition Supplements,9,3492.09,31428.78
+INV1752,2023-12-28,12,C015,Company 15,NEW,P009,Skincare Set,Personal Care and Wellness Products,5,3107.73,15538.67
+INV1753,2023-12-23,12,C043,Company 43,NEW,P001,Organic Juice,Food and Beverages,6,4664.48,27986.88
+INV1754,2023-12-18,12,C004,AquaVita Industries,VIP,P001,Organic Juice,Food and Beverages,8,5022.35,40178.81

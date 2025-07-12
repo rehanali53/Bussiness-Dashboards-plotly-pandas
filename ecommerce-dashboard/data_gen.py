@@ -147,7 +147,7 @@ customer_metrics_df = pd.DataFrame(customer_data)
 
 # Create datasets folder
 import os
-os.makedirs('datasets', exist_ok=True)
+os.makedirs('ecommerce-dashboard/datasets', exist_ok=True)
 
 monthly_sales_df.to_csv('ecommerce-dashboard/datasets/monthly_sales_data.csv', index=False)
 regional_performance_df.to_csv('ecommerce-dashboard/datasets/regional_performance.csv', index=False)
