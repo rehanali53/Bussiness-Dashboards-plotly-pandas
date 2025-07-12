@@ -133,8 +133,10 @@ Open the HTML files in your web browser:
 
 ## 📧 Contact
 
+**Rehan Ali**  
+[LinkedIn](https://www.linkedin.com/in/rehan-ali-me/)
 Feel free to reach out if you have questions about these dashboards or want to discuss data visualization projects!
 
 ---
 
-*Created with Python, Plotly, and lots of coffee ☕*
+*Created by Rehan Ali with Python, Plotly, and lots of coffee ☕*

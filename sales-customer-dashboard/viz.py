@@ -23,7 +23,7 @@ total_customers = len(customer_df)
 fig = make_subplots(
     rows=4, cols=4,
     subplot_titles=[
-        'Key Metrics', '', '', '',
+        '', '', '', '',  # Remove title for metrics row
         'Total Sales ($) Over Time', '', '', '',
         'Sales vs Purchases by Customer', '', 'Product Group Sales', '',
         'Customer Group Distribution', '', '', ''
@@ -34,31 +34,31 @@ fig = make_subplots(
         [{"colspan": 2}, None, {"type": "pie"}, None],
         [{"type": "pie"}, None, {"colspan": 2}, None]
     ],
-    vertical_spacing=0.08,
+    vertical_spacing=0.12,  # Increased spacing
     horizontal_spacing=0.1,
-    row_heights=[0.15, 0.35, 0.35, 0.15]
+    row_heights=[0.12, 0.35, 0.35, 0.18]  # Adjusted heights
 )
 
 # 1. Key Metrics Cards (Top Row) - Using annotations instead of traces
 metrics_annotations = [
-    dict(x=0.125, y=0.95, xref='paper', yref='paper',
+    dict(x=0.125, y=0.88, xref='paper', yref='paper',  # Lowered from 0.95
          text=f'<b>${total_sales/1000000:.2f}M</b><br>Sum of Invoices',
-         showarrow=False, font=dict(size=16, color='white'),
+         showarrow=False, font=dict(size=14, color='white'),  # Reduced font size
          bgcolor='rgba(52, 73, 94, 0.8)', bordercolor='white', borderwidth=2,
          xanchor='center', yanchor='middle'),
-    dict(x=0.375, y=0.95, xref='paper', yref='paper',
+    dict(x=0.375, y=0.88, xref='paper', yref='paper',
          text=f'<b>{total_invoices}</b><br>Count of Invoices',
-         showarrow=False, font=dict(size=16, color='white'),
+         showarrow=False, font=dict(size=14, color='white'),
          bgcolor='rgba(52, 73, 94, 0.8)', bordercolor='white', borderwidth=2,
          xanchor='center', yanchor='middle'),
-    dict(x=0.625, y=0.95, xref='paper', yref='paper',
+    dict(x=0.625, y=0.88, xref='paper', yref='paper',
          text=f'<b>${avg_invoice_amount/1000:.1f}K</b><br>Average Invoice Amount',
-         showarrow=False, font=dict(size=16, color='white'),
+         showarrow=False, font=dict(size=14, color='white'),
          bgcolor='rgba(52, 73, 94, 0.8)', bordercolor='white', borderwidth=2,
          xanchor='center', yanchor='middle'),
-    dict(x=0.875, y=0.95, xref='paper', yref='paper',
+    dict(x=0.875, y=0.88, xref='paper', yref='paper',
          text=f'<b>{total_customers}</b><br>Customer Count',
-         showarrow=False, font=dict(size=16, color='white'),
+         showarrow=False, font=dict(size=14, color='white'),
          bgcolor='rgba(52, 73, 94, 0.8)', bordercolor='white', borderwidth=2,
          xanchor='center', yanchor='middle')
 ]
@@ -147,28 +147,27 @@ fig.add_trace(
     row=4, col=1
 )
 
-
 # 6. Customer Details Table (Bottom Right)
 # Create a simple table using annotations
-table_data = customer_df.nlargest(8, 'total_sales')[['customer_group', 'customer_name', 'total_sales']]
-table_y = 0.25
+table_data = customer_df.nlargest(6, 'total_sales')[['customer_group', 'customer_name', 'total_sales']]  # Reduced to 6 rows
+table_y = 0.15  # Lowered position
 table_annotations = []
 
 # Table header
 table_annotations.append(
-    dict(x=0.75, y=table_y + 0.08, xref='paper', yref='paper',
+    dict(x=0.75, y=table_y + 0.05, xref='paper', yref='paper',  # Adjusted header position
          text='<b>Top Customers by Sales</b>',
-         showarrow=False, font=dict(size=14, color='#2c3e50'),
+         showarrow=False, font=dict(size=12, color='#2c3e50'),  # Smaller font
          xanchor='center')
 )
 
 # Table rows
 for i, (_, row) in enumerate(table_data.iterrows()):
-    y_pos = table_y - (i * 0.02)
+    y_pos = table_y - (i * 0.018)  # Tighter spacing
     table_annotations.append(
         dict(x=0.75, y=y_pos, xref='paper', yref='paper',
-             text=f'{row["customer_group"]} | {row["customer_name"][:20]} | ${row["total_sales"]:,.0f}',
-             showarrow=False, font=dict(size=10, color='#34495e'),
+             text=f'{row["customer_group"]} | {row["customer_name"][:18]} | ${row["total_sales"]:,.0f}',  # Shorter names
+             showarrow=False, font=dict(size=9, color='#34495e'),  # Smaller font
              xanchor='center')
     )
 
@@ -186,12 +185,13 @@ fig.update_yaxes(tickformat="$,.0s", row=3, col=1)
 # Update overall layout
 fig.update_layout(
     title={
-        'text': "Sales Customer Profiling Dashboard - 2023",
+        'text': "Sales Customer Profiling Dashboard - 2023<br><sup style='font-size:14px'>Created by Rehan Ali</sup>",
         'x': 0.5,
         'xanchor': 'center',
-        'font': {'size': 28, 'color': '#2c3e50'}
+        'font': {'size': 24, 'color': '#2c3e50'},  # Reduced main title size
+        'y': 0.98  # Position title higher
     },
-    height=1000,
+    height=1100,  # Increased height for better spacing
     showlegend=True,
     template='plotly_white',
     font=dict(family="Arial, sans-serif", size=11),
@@ -205,15 +205,7 @@ fig.update_layout(
     annotations=metrics_annotations + table_annotations
 )
 
-# Add background colors for sections
-fig.add_shape(
-    type="rect",
-    x0=0, y0=0.92, x1=1, y1=0.98,
-    xref="paper", yref="paper",
-    fillcolor="rgba(52, 73, 94, 0.1)",
-    layer="below",
-    line_width=0,
-)
+# Background shape removed to prevent overlap issues
 
 # Export to HTML
 fig.write_html("sales-customer-dashboard/sales_customer_profiling_dashboard.html")

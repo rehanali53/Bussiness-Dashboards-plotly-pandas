@@ -215,7 +215,7 @@ fig.update_geos(
 # Update overall layout
 fig.update_layout(
     title={
-        'text': "E-commerce Business Performance Dashboard - 2024 vs 2025",
+        'text': "E-commerce Business Performance Dashboard - 2024 vs 2025<br><sub>Created by Rehan Ali</sub>",
         'x': 0.5,
         'xanchor': 'center',
         'font': {'size': 24, 'color': '#2c3e50'}
@@ -256,6 +256,15 @@ annotations = [
         borderwidth=1,
         xanchor='left',
         yanchor='top'
+    ),
+    dict(
+        x=0.99, y=0.01,
+        xref='paper', yref='paper',
+        text='<i>Dashboard by Rehan Ali</i>',
+        showarrow=False,
+        font=dict(size=10, color='#95a5a6'),
+        xanchor='right',
+        yanchor='bottom'
     )
 ]
 
